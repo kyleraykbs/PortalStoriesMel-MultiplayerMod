@@ -2,7 +2,7 @@
 Ports *Portal Stories: Mel* to multiplayer
 Has compatibility with 32 player mod (The new version https://github.com/kyleraykbs/Portal2-32PlayerMod-Lite)
 
-# Release Date June 25 2021
+# Release Date May 31 2021
 
 # Beta Testing
 If you want to beta test 
