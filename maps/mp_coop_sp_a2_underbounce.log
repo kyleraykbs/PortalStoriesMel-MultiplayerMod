@@ -1,0 +1,1218 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$envmap" is multiply defined in material "metal/underground_wall_metal004a_bottom"!
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 866 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (495630 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -447.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -447.75
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2191 texinfos to 1451
+Reduced 124 texdatas to 117 (6754 bytes to 6388)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+
+nummapplanes:     (  9456 / 65536 )
+nummapbrushes:    (  1246 /  8192 )
+nummapbrushsides: ( 11407 / 65536 )
+num_map_overlays: (    72 /   512 )
+nummodels:        (    70 /  1024 )
+num_entities:     (   823 / 16384 )
+
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt
+1384 portalclusters
+5560 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3201 visible clusters (0.00%)
+Total clusters visible: 922124
+Average clusters visible: 666
+Building PAS...
+Average clusters audible: 671
+visdatasize:271267  compressed from 487168
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\Metal\backstage_grate_001a.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001b_mip0.vtf
+4874 faces
+1585882 square feet [228367024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4874 patches before subdivision
+172484 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15326650, max 503
+transfer lists: 116.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(54938, 50531, 33229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5686, 5361, 2840)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(763, 736, 332)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(102, 101, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(15, 15, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.5088 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               1246/8192        14952/98304    (15.2%) 
+brushsides           11412/65536       91296/524288   (17.4%) 
+planes                9456/65536      189120/1310720  (14.4%) 
+vertexes              8622/65536      103464/786432   (13.2%) 
+nodes                 2410/65536       77120/2097152  ( 3.7%) 
+texinfos              1451/12288      104472/884736   (11.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4874/65536      272944/3670016  ( 7.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3393/65536      190008/3670016  ( 5.2%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        4874/0           19496/0        ( 0.0%) 
+leaves                2481/65536       79392/2097152  ( 3.8%) 
+leaffaces             6267/65536       12534/131072   ( 9.6%) 
+leafbrushes           3490/65536        6980/131072   ( 5.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            36964/512000     147856/2048000  ( 7.2%) 
+edges                22870/256000      91480/1024000  ( 8.9%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            518/32768        5180/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8913/65536       17826/131072   (13.6%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                72/512         25344/180224   (14.1%) 
+LDR lightdata         [variable]    15169624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      271267/16777216 ( 1.6%) 
+entdata               [variable]      329349/393216   (83.8%) VERY FULL!
+LDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+HDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+LDR leaf ambient      6725/65536      188300/1835008  (10.3%) 
+HDR leaf ambient      2481/65536       69468/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/64622    ( 0.0%) 
+pakfile               [variable]     8626264/0        ( 0.0%) 
+physics               [variable]      495630/4194304  (11.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 13221
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+2 minutes, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\Metal\backstage_grate_001a.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001b_mip0.vtf
+4874 faces
+1585882 square feet [228367024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4874 patches before subdivision
+172484 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$envmap" is multiply defined in material "metal/underground_wall_metal004a_bottom"!
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 866 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (495630 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -447.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -447.75
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2191 texinfos to 1451
+Reduced 124 texdatas to 117 (6754 bytes to 6388)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+
+nummapplanes:     (  9456 / 65536 )
+nummapbrushes:    (  1246 /  8192 )
+nummapbrushsides: ( 11407 / 65536 )
+num_map_overlays: (    72 /   512 )
+nummodels:        (    70 /  1024 )
+num_entities:     (   823 / 16384 )
+
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt
+1384 portalclusters
+5560 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3201 visible clusters (0.00%)
+Total clusters visible: 922124
+Average clusters visible: 666
+Building PAS...
+Average clusters audible: 671
+visdatasize:271267  compressed from 487168
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+4874 faces
+1585882 square feet [228367024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4874 patches before subdivision
+172484 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15113499, max 522
+transfer lists: 115.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(54924, 50719, 33528)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5800, 5470, 2895)
+Build Patch/Sample Hash Table(s).....Done<0.5016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               1246/8192        14952/98304    (15.2%) 
+brushsides           11412/65536       91296/524288   (17.4%) 
+planes                9456/65536      189120/1310720  (14.4%) 
+vertexes              8622/65536      103464/786432   (13.2%) 
+nodes                 2410/65536       77120/2097152  ( 3.7%) 
+texinfos              1451/12288      104472/884736   (11.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4874/65536      272944/3670016  ( 7.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3393/65536      190008/3670016  ( 5.2%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        4874/0           19496/0        ( 0.0%) 
+leaves                2481/65536       79392/2097152  ( 3.8%) 
+leaffaces             6267/65536       12534/131072   ( 9.6%) 
+leafbrushes           3490/65536        6980/131072   ( 5.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            36964/512000     147856/2048000  ( 7.2%) 
+edges                22870/256000      91480/1024000  ( 8.9%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            518/32768        5180/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8913/65536       17826/131072   (13.6%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                72/512         25344/180224   (14.1%) 
+LDR lightdata         [variable]    15062044/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      271267/16777216 ( 1.6%) 
+entdata               [variable]      329349/393216   (83.8%) VERY FULL!
+LDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+HDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+LDR leaf ambient      6503/65536      182084/1835008  ( 9.9%) 
+HDR leaf ambient      2481/65536       69468/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/64622    ( 0.0%) 
+pakfile               [variable]     3895540/0        ( 0.0%) 
+physics               [variable]      495630/4194304  (11.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 13221
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+27 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$envmap" is multiply defined in material "metal/underground_wall_metal004a_bottom"!
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 866 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (495630 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -447.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -447.75
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2191 texinfos to 1451
+Reduced 124 texdatas to 117 (6754 bytes to 6388)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+
+nummapplanes:     (  9456 / 65536 )
+nummapbrushes:    (  1246 /  8192 )
+nummapbrushsides: ( 11407 / 65536 )
+num_map_overlays: (    72 /   512 )
+nummodels:        (    70 /  1024 )
+num_entities:     (   823 / 16384 )
+
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt
+1384 portalclusters
+5560 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3201 visible clusters (0.00%)
+Total clusters visible: 922124
+Average clusters visible: 666
+Building PAS...
+Average clusters audible: 671
+visdatasize:271267  compressed from 487168
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+4874 faces
+1585882 square feet [228367024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4874 patches before subdivision
+172484 patches after subdivision
+93 direct lights
+0...1...2...3...4...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$envmap" is multiply defined in material "metal/underground_wall_metal004a_bottom"!
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 866 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (495630 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -447.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -447.75
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2191 texinfos to 1451
+Reduced 124 texdatas to 117 (6754 bytes to 6388)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+
+nummapplanes:     (  9456 / 65536 )
+nummapbrushes:    (  1246 /  8192 )
+nummapbrushsides: ( 11407 / 65536 )
+num_map_overlays: (    72 /   512 )
+nummodels:        (    70 /  1024 )
+num_entities:     (   823 / 16384 )
+
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt
+1384 portalclusters
+5560 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3201 visible clusters (0.00%)
+Total clusters visible: 922124
+Average clusters visible: 666
+Building PAS...
+Average clusters audible: 671
+visdatasize:271267  compressed from 487168
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+4874 faces
+1585882 square feet [228367024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4874 patches before subdivision
+172484 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15113499, max 522
+transfer lists: 115.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(54924, 50719, 33528)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5800, 5470, 2895)
+Build Patch/Sample Hash Table(s).....Done<0.5723 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               1246/8192        14952/98304    (15.2%) 
+brushsides           11412/65536       91296/524288   (17.4%) 
+planes                9456/65536      189120/1310720  (14.4%) 
+vertexes              8622/65536      103464/786432   (13.2%) 
+nodes                 2410/65536       77120/2097152  ( 3.7%) 
+texinfos              1451/12288      104472/884736   (11.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4874/65536      272944/3670016  ( 7.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3393/65536      190008/3670016  ( 5.2%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        4874/0           19496/0        ( 0.0%) 
+leaves                2481/65536       79392/2097152  ( 3.8%) 
+leaffaces             6267/65536       12534/131072   ( 9.6%) 
+leafbrushes           3490/65536        6980/131072   ( 5.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            36964/512000     147856/2048000  ( 7.2%) 
+edges                22870/256000      91480/1024000  ( 8.9%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            518/32768        5180/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8913/65536       17826/131072   (13.6%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                72/512         25344/180224   (14.1%) 
+LDR lightdata         [variable]    15062044/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      271267/16777216 ( 1.6%) 
+entdata               [variable]      329358/393216   (83.8%) VERY FULL!
+LDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+HDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+LDR leaf ambient      6503/65536      182084/1835008  ( 9.9%) 
+HDR leaf ambient      2481/65536       69468/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/64622    ( 0.0%) 
+pakfile               [variable]     3895540/0        ( 0.0%) 
+physics               [variable]      495630/4194304  (11.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 13221
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+30 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$envmap" is multiply defined in material "metal/underground_wall_metal004a_bottom"!
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 866 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (495630 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -447.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -447.75
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2191 texinfos to 1451
+Reduced 124 texdatas to 117 (6754 bytes to 6388)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+
+nummapplanes:     (  9456 / 65536 )
+nummapbrushes:    (  1246 /  8192 )
+nummapbrushsides: ( 11407 / 65536 )
+num_map_overlays: (    72 /   512 )
+nummodels:        (    70 /  1024 )
+num_entities:     (   823 / 16384 )
+
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt
+1384 portalclusters
+5560 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3201 visible clusters (0.00%)
+Total clusters visible: 922124
+Average clusters visible: 666
+Building PAS...
+Average clusters audible: 671
+visdatasize:271267  compressed from 487168
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+4874 faces
+1585882 square feet [228367024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4874 patches before subdivision
+172484 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15113499, max 522
+transfer lists: 115.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(54924, 50719, 33528)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5800, 5470, 2895)
+Build Patch/Sample Hash Table(s).....Done<0.5038 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               1246/8192        14952/98304    (15.2%) 
+brushsides           11412/65536       91296/524288   (17.4%) 
+planes                9456/65536      189120/1310720  (14.4%) 
+vertexes              8622/65536      103464/786432   (13.2%) 
+nodes                 2410/65536       77120/2097152  ( 3.7%) 
+texinfos              1451/12288      104472/884736   (11.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4874/65536      272944/3670016  ( 7.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3393/65536      190008/3670016  ( 5.2%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        4874/0           19496/0        ( 0.0%) 
+leaves                2481/65536       79392/2097152  ( 3.8%) 
+leaffaces             6267/65536       12534/131072   ( 9.6%) 
+leafbrushes           3490/65536        6980/131072   ( 5.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            36964/512000     147856/2048000  ( 7.2%) 
+edges                22870/256000      91480/1024000  ( 8.9%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            518/32768        5180/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8913/65536       17826/131072   (13.6%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                72/512         25344/180224   (14.1%) 
+LDR lightdata         [variable]    15062044/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      271267/16777216 ( 1.6%) 
+entdata               [variable]      329254/393216   (83.7%) VERY FULL!
+LDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+HDR ambient table     2481/65536        9924/262144   ( 3.8%) 
+LDR leaf ambient      6503/65536      182084/1835008  ( 9.9%) 
+HDR leaf ambient      2481/65536       69468/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/64622    ( 0.0%) 
+pakfile               [variable]     3895540/0        ( 0.0%) 
+physics               [variable]      495630/4194304  (11.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 13221
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+28 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$envmap" is multiply defined in material "metal/underground_wall_metal004a_bottom"!
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 866 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (496022 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -447.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -447.75
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2197 texinfos to 1456
+Reduced 124 texdatas to 117 (6754 bytes to 6388)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+
+nummapplanes:     (  9480 / 65536 )
+nummapbrushes:    (  1247 /  8192 )
+nummapbrushsides: ( 11420 / 65536 )
+num_map_overlays: (    72 /   512 )
+nummodels:        (    70 /  1024 )
+num_entities:     (   823 / 16384 )
+
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt
+1388 portalclusters
+5584 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3245 visible clusters (0.00%)
+Total clusters visible: 928182
+Average clusters visible: 668
+Building PAS...
+Average clusters audible: 673
+visdatasize:274895  compressed from 488576
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+4883 faces
+1585896 square feet [228369072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4883 patches before subdivision
+172403 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15103732, max 523
+transfer lists: 115.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(54921, 50718, 33532)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5804, 5473, 2896)
+Build Patch/Sample Hash Table(s).....Done<0.5152 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               1247/8192        14964/98304    (15.2%) 
+brushsides           11425/65536       91400/524288   (17.4%) 
+planes                9480/65536      189600/1310720  (14.5%) 
+vertexes              8638/65536      103656/786432   (13.2%) 
+nodes                 2415/65536       77280/2097152  ( 3.7%) 
+texinfos              1456/12288      104832/884736   (11.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4883/65536      273448/3670016  ( 7.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3397/65536      190232/3670016  ( 5.2%) 
+facebrushes            509/0            1018/0        ( 0.0%) 
+facebrushlists        4883/0           19532/0        ( 0.0%) 
+leaves                2486/65536       79552/2097152  ( 3.8%) 
+leaffaces             6295/65536       12590/131072   ( 9.6%) 
+leafbrushes           3502/65536        7004/131072   ( 5.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            37022/512000     148088/2048000  ( 7.2%) 
+edges                22902/256000      91608/1024000  ( 8.9%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            518/32768        5180/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8913/65536       17826/131072   (13.6%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                72/512         25344/180224   (14.1%) 
+LDR lightdata         [variable]    15065328/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      274895/16777216 ( 1.6%) 
+entdata               [variable]      329254/393216   (83.7%) VERY FULL!
+LDR ambient table     2486/65536        9944/262144   ( 3.8%) 
+HDR ambient table     2486/65536        9944/262144   ( 3.8%) 
+LDR leaf ambient      6554/65536      183512/1835008  (10.0%) 
+HDR leaf ambient      2486/65536       69608/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/64634    ( 0.0%) 
+pakfile               [variable]     3895540/0        ( 0.0%) 
+physics               [variable]      496022/4194304  (11.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 13245
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+28 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$envmap" is multiply defined in material "metal/underground_wall_metal004a_bottom"!
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 866 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (496022 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -200.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ 912.00 -5832.00 904.00
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 -4728.00 -447.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1600.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1344.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 1088.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 832.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 64.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -191.75
+Encountered obsolete static prop option to do its fade in screen space @ -392.00 904.00 -447.75
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2197 texinfos to 1456
+Reduced 124 texdatas to 117 (6754 bytes to 6388)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+
+nummapplanes:     (  9480 / 65536 )
+nummapbrushes:    (  1247 /  8192 )
+nummapbrushsides: ( 11420 / 65536 )
+num_map_overlays: (    72 /   512 )
+nummodels:        (    70 /  1024 )
+num_entities:     (   823 / 16384 )
+
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.prt
+1388 portalclusters
+5584 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3245 visible clusters (0.00%)
+Total clusters visible: 928182
+Average clusters visible: 668
+Building PAS...
+Average clusters audible: 673
+visdatasize:274895  compressed from 488576
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\Metal\backstage_grate_001a.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001b_mip0.vtf
+4883 faces
+1585896 square feet [228369072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4883 patches before subdivision
+172403 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15316379, max 503
+transfer lists: 116.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(54930, 50526, 33230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5688, 5363, 2841)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(765, 737, 332)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(102, 101, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(15, 15, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.5289 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               1247/8192        14964/98304    (15.2%) 
+brushsides           11425/65536       91400/524288   (17.4%) 
+planes                9480/65536      189600/1310720  (14.5%) 
+vertexes              8638/65536      103656/786432   (13.2%) 
+nodes                 2415/65536       77280/2097152  ( 3.7%) 
+texinfos              1456/12288      104832/884736   (11.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4883/65536      273448/3670016  ( 7.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3397/65536      190232/3670016  ( 5.2%) 
+facebrushes            509/0            1018/0        ( 0.0%) 
+facebrushlists        4883/0           19532/0        ( 0.0%) 
+leaves                2486/65536       79552/2097152  ( 3.8%) 
+leaffaces             6295/65536       12590/131072   ( 9.6%) 
+leafbrushes           3502/65536        7004/131072   ( 5.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            37022/512000     148088/2048000  ( 7.2%) 
+edges                22902/256000      91608/1024000  ( 8.9%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            518/32768        5180/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8913/65536       17826/131072   (13.6%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                72/512         25344/180224   (14.1%) 
+LDR lightdata         [variable]    15172908/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      274895/16777216 ( 1.6%) 
+entdata               [variable]      329254/393216   (83.7%) VERY FULL!
+LDR ambient table     2486/65536        9944/262144   ( 3.8%) 
+HDR ambient table     2486/65536        9944/262144   ( 3.8%) 
+LDR leaf ambient      6780/65536      189840/1835008  (10.3%) 
+HDR leaf ambient      2486/65536       69608/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/64634    ( 0.0%) 
+pakfile               [variable]     8626264/0        ( 0.0%) 
+physics               [variable]      496022/4194304  (11.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 13245
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+2 minutes, 0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[63 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\Metal\backstage_grate_001a.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001b_mip0.vtf
+4883 faces
+1585896 square feet [228369072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4883 patches before subdivision
+172403 patches after subdivision
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15316379, max 503
+transfer lists: 116.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(54930, 50526, 33230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5688, 5363, 2841)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(765, 737, 332)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(102, 101, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(15, 15, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.5552 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               1247/8192        14964/98304    (15.2%) 
+brushsides           11425/65536       91400/524288   (17.4%) 
+planes                9480/65536      189600/1310720  (14.5%) 
+vertexes              8638/65536      103656/786432   (13.2%) 
+nodes                 2415/65536       77280/2097152  ( 3.7%) 
+texinfos              1456/12288      104832/884736   (11.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4883/65536      273448/3670016  ( 7.5%) 
+hdr faces             4883/65536      273448/3670016  ( 7.5%) 
+origfaces             3397/65536      190232/3670016  ( 5.2%) 
+facebrushes            509/0            1018/0        ( 0.0%) 
+facebrushlists        4883/0           19532/0        ( 0.0%) 
+leaves                2486/65536       79552/2097152  ( 3.8%) 
+leaffaces             6295/65536       12590/131072   ( 9.6%) 
+leafbrushes           3502/65536        7004/131072   ( 5.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            37022/512000     148088/2048000  ( 7.2%) 
+edges                22902/256000      91608/1024000  ( 8.9%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights         93/8192         9300/819200   ( 1.1%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            518/32768        5180/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8913/65536       17826/131072   (13.6%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                72/512         25344/180224   (14.1%) 
+LDR lightdata         [variable]    15172908/0        ( 0.0%) 
+HDR lightdata         [variable]    15172908/0        ( 0.0%) 
+visdata               [variable]      274895/16777216 ( 1.6%) 
+entdata               [variable]      329254/393216   (83.7%) VERY FULL!
+LDR ambient table     2486/65536        9944/262144   ( 3.8%) 
+HDR ambient table     2486/65536        9944/262144   ( 3.8%) 
+LDR leaf ambient      6780/65536      189840/1835008  (10.3%) 
+HDR leaf ambient      6780/65536      189840/1835008  (10.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/64634    ( 0.0%) 
+pakfile               [variable]    13362412/0        ( 0.0%) 
+physics               [variable]      496022/4194304  (11.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 13245
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_underbounce.bsp
+6 minutes, 14 seconds elapsed

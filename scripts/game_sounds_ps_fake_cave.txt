@@ -1,0 +1,177 @@
+//soundscipt written in python by Lpfreaky90
+"fake_cave.garden_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_1.wav"
+}
+"fake_cave.garden_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_2.wav"
+}
+"fake_cave.garden_destroyed_1a"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_1a.wav"
+}
+"fake_cave.garden_destroyed_1b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_1b.wav"
+}
+"fake_cave.garden_destroyed_1c"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_1c.wav"
+}
+"fake_cave.garden_destroyed_2a"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_2a.wav"
+}
+"fake_cave.garden_destroyed_2b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_2b.wav"
+}
+"fake_cave.garden_destroyed_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_3.wav"
+}
+"fake_cave.garden_destroyed_4a"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_4a.wav"
+}
+"fake_cave.garden_destroyed_4b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_4b.wav"
+}
+"fake_cave.garden_destroyed_4c"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_4c.wav"
+}
+"fake_cave.garden_destroyed_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_5.wav"
+}
+"fake_cave.garden_destroyed_6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_6.wav"
+}
+"fake_cave.garden_destroyed_7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_7.wav"
+}
+"fake_cave.garden_destroyed_8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/garden_destroyed_8.wav"
+}
+"fake_cave.once_upon_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/once_upon_1.wav"
+}
+"fake_cave.once_upon_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/once_upon_2.wav"
+}
+"fake_cave.once_upon_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/once_upon_3.wav"
+}
+"fake_cave.underbounce_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/underbounce_1.wav"
+}
+"fake_cave.underbounce_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/underbounce_2.wav"
+}
+"fake_cave.underbounce_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/underbounce_3.wav"
+}
+"fake_cave.underbounce_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_90dB"
+	"wave"		"vo/fake_cave/underbounce_4.wav"
+}

@@ -1,0 +1,1181 @@
+//soundscript automatically generated in python by Lpfreaky90
+"aegis.Audio 10_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 10_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 11_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 11_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 12_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 12_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 13_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 13_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 14_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 14_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 15_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 15_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 16_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 16_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 17_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 17_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 18_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 18_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 19_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 19_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 1_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 1_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 20_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 20_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 21_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 21_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 22_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 22_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 23_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 23_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 24_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 24_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 25_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 25_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 26_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 26_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 27_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 27_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 28_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 28_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 29_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 29_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 2_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 2_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 30_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 30_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 31_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 31_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 32_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 32_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 33_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 33_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 34_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 34_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 35_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 35_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 36_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 36_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 37_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 37_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 38_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 38_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 3_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 3_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 40_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 40_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 41_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 41_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 42_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 42_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 43_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 43_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 44_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 44_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 45_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 45_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 46_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 46_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 47_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 47_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 48_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 48_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 49_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 49_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 4_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 4_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 5_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 5_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 6_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 6_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 7_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 7_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 8_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 8_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.Audio 9_bip"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/Audio 9_bip.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_10s"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_10s.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_1m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_1m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_2m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_2m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_30s"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_30s.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_3m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_3m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_4m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_4m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_5m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_5m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_5s"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_5s.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_6m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_6m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_7m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_7m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"aegis.countdown_8m"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_130dB"
+	"wave"		"vo/aegis/countdown_8m.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}

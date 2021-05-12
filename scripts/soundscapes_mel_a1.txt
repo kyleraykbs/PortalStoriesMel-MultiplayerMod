@@ -1,0 +1,113 @@
+//////////////// Welcome to Aperture! Where  your//////////
+///////////////personal safety is the least of our/////////
+///////////////////////////concerns!///////////////////////
+///////////////////////////////////////////////////////////
+
+"mel.smalltown"
+{
+	"dsp" 	"1"
+	"fadetime" "0.5"
+
+	"playlooping"
+	{
+		"volume"	".1"	
+		"wave"		"BR/Ambience/BR_Crikt_lp_01.wav"
+		"pitch"		"100"
+
+	}
+	"playsoundscape" 
+ 	{
+		"name"	"TestChamber_Destruction.WindEerie_01"
+		"volume" "0.5"
+	}
+}
+
+"mel.smallstation"
+{
+	"dsp"	"3"
+	"fadetime" "0.5"
+
+
+	"playlooping"
+	{
+		"volume"	"0.7"
+		"pitch"		"100"
+		"wave"		")ambient/rooms/tramtunnel_drone.wav"
+	}
+}
+
+"mel.subwaylargespace"
+{
+	"dsp"	"6.5"
+	"fadetime" "1"
+
+
+	"playlooping"
+	{
+		"volume"	"0.75"
+		"pitch"		"100"
+		"wave"		")ambient/rooms/openspace_01.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"pitch"		"100"
+		"wave"		")ambient/rooms/station_chatter_01.wav"
+	}
+}
+
+"mel.waterfall"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"0.8"	
+		"wave"	"ambient/wind/amb_eerie_wind_lp_01.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.45"	
+		"wave"	"ambient/nature/insects/amb_insects_lp_01.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playrandom"
+	{
+		"volume"	"0.2,0.45"
+		"pitch"		"100, 105"
+		"time"		"1.5, 4.5"
+		"position"	"random"
+		"soundlevel"	"SNDLVL65dB"
+		"rndwave"
+		{
+			"wave"	"ambient/nature/water/amb_waterdrips_01.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_02.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_03.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_04.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_05.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_06.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_07.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_08.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_09.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_10.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_11.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_12.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_13.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_14.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_15.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_16.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_17.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_18.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_19.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_20.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_21.wav"
+			"wave"	"ambient/nature/water/amb_waterdrips_22.wav"
+		}
+	}
+}
