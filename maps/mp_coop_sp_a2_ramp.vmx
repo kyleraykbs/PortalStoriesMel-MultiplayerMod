@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8874"
-	"mapversion" "3"
+	"mapversion" "12"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -116,13 +116,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "16"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "3"
+	"mapversion" "12"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from sp_a2_ramp"
 	"detailmaterial" "detail/detailsprites"
@@ -13999,6 +13999,333 @@ world
 }
 entity
 {
+	"id" "717962"
+	"classname" "info_teleport_destination"
+	"angles" "0 0 0"
+	"targetname" "TeleportDest1"
+	"origin" "1344 -389.634 128"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "717979"
+	"classname" "trigger_teleport"
+	"origin" "256 512 -78"
+	"spawnflags" "4097"
+	"StartDisabled" "1"
+	"target" "TeleportDest1"
+	"targetname" "TeleportTrig1"
+	"UseLandmarkAngles" "0"
+	solid
+	{
+		"id" "717977"
+		side
+		{
+			"id" "5317"
+			"plane" "(64 576 -42) (448 576 -42) (448 448 -42)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5316"
+			"plane" "(64 448 -114) (448 448 -114) (448 576 -114)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5315"
+			"plane" "(64 576 -42) (64 448 -42) (64 448 -114)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5314"
+			"plane" "(448 576 -114) (448 448 -114) (448 448 -42)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5313"
+			"plane" "(448 576 -42) (64 576 -42) (64 576 -114)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5312"
+			"plane" "(448 448 -114) (64 448 -114) (64 448 -42)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "718025"
+	"classname" "trigger_teleport"
+	"origin" "640 -224 128"
+	"spawnflags" "4097"
+	"StartDisabled" "1"
+	"target" "TeleportDest2"
+	"targetname" "TeleportTrig2"
+	"UseLandmarkAngles" "0"
+	solid
+	{
+		"id" "718022"
+		side
+		{
+			"id" "5329"
+			"plane" "(-640 256 384) (1920 256 384) (1920 -704 384)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5328"
+			"plane" "(-640 -704 -128) (1920 -704 -128) (1920 256 -128)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5327"
+			"plane" "(-640 256 384) (-640 -704 384) (-640 -704 -128)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5326"
+			"plane" "(1920 256 -128) (1920 -704 -128) (1920 -704 384)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5325"
+			"plane" "(1920 256 384) (-640 256 384) (-640 256 -128)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5324"
+			"plane" "(1920 -704 -128) (-640 -704 -128) (-640 -704 384)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "718049"
+	"classname" "info_teleport_destination"
+	"angles" "0 0 0"
+	"targetname" "TeleportDest2"
+	"origin" "1301.2 -1751.91 1"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "718078"
+	"classname" "info_teleport_destination"
+	"angles" "0 0 0"
+	"targetname" "TeleportDest3"
+	"origin" "663 -1907.01 261.932"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "718094"
+	"classname" "trigger_teleport"
+	"origin" "1304 -1752 37"
+	"spawnflags" "4097"
+	"StartDisabled" "1"
+	"target" "TeleportDest3"
+	"targetname" "TeleportTrig3"
+	"UseLandmarkAngles" "0"
+	solid
+	{
+		"id" "718092"
+		side
+		{
+			"id" "5341"
+			"plane" "(1280 -1728 73) (1328 -1728 73) (1328 -1776 73)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5340"
+			"plane" "(1280 -1776 1) (1328 -1776 1) (1328 -1728 1)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5339"
+			"plane" "(1280 -1728 73) (1280 -1776 73) (1280 -1776 1)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5338"
+			"plane" "(1328 -1728 1) (1328 -1776 1) (1328 -1776 73)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5337"
+			"plane" "(1328 -1728 73) (1280 -1728 73) (1280 -1728 1)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5336"
+			"plane" "(1328 -1776 1) (1280 -1776 1) (1280 -1776 73)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4500]"
+	}
+}
+entity
+{
 	"id" "714682"
 	"classname" "func_instance_io_proxy"
 	"targetname" "proxy"
@@ -17412,6 +17739,7 @@ entity
 		"OnStartTouch" "@save_rlTrigger0-1"
 		"OnStartTouch" "cs_virgil_49Start1-1"
 		"OnStartTouch" "r2_cube_clipKill0-1"
+		"OnStartTouch" "TeleportTrig3Enable0-1"
 	}
 	solid
 	{
@@ -17894,7 +18222,7 @@ entity
 entity
 {
 	"id" "137591"
-	"classname" "point_clientcommand"
+	"classname" "point_servercommand"
 	"targetname" "end_command"
 	"origin" "-292.22 -1636.34 -120"
 	editor
@@ -17915,7 +18243,7 @@ entity
 	connections
 	{
 		"OnStartTouch" "end_fadeFade0-1"
-		"OnStartTouch" "end_commandCommandchangelevel sp_a2_firestorm2-1"
+		"OnStartTouch" "end_commandCommandchangelevel mp_coop_sp_a2_firestorm2-1"
 		"OnStartTouch" "end_commandCommanddisconnect2.5-1"
 	}
 	solid
@@ -18599,6 +18927,7 @@ entity
 	connections
 	{
 		"OnStartTouch" "gel_sprayer_blueStart0-1"
+		"OnStartTouch" "TeleportTrig2Enable0-1"
 	}
 	solid
 	{
@@ -20471,7 +20800,7 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnStartTouch" "end_commandCommandChangelevel sp_a2_firestorm0-1"
+		"OnStartTouch" "end_commandCommandChangelevel mp_coop_sp_a2_firestorm0-1"
 	}
 	solid
 	{
@@ -20782,6 +21111,7 @@ entity
 	connections
 	{
 		"OnStartTouch" "@save_rlTrigger0-1"
+		"OnStartTouch" "TeleportTrig1Enable0-1"
 	}
 	solid
 	{
@@ -27854,10 +28184,6 @@ entity
 	"spawnflags" "0"
 	"target" "exit_elevator-exit_lift_train_path_3"
 	"targetname" "exit_elevator-exit_lift_train_path_2"
-	connections
-	{
-		"OnPass" "exit_elevator-exit_lift_trainRunScriptCodeReadyForTransition()0-1"
-	}
 	"origin" "-1152 -1664 1104"
 	editor
 	{
@@ -27877,10 +28203,6 @@ entity
 	"spawnflags" "0"
 	"target" "exit_elevator-exit_lift_train_path_4"
 	"targetname" "exit_elevator-exit_lift_train_path_3"
-	connections
-	{
-		"OnPass" "exit_elevator-exit_lift_trainRunScriptCodeReadyForTransition()0-1"
-	}
 	"origin" "-1152 -1664 1488"
 	editor
 	{
@@ -27902,7 +28224,7 @@ entity
 	"targetname" "exit_elevator-exit_lift_train_path_4"
 	connections
 	{
-		"OnPass" "exit_elevator-exit_lift_trainRunScriptCodeReadyForTransition()0-1"
+		"OnPass" "end_commandCommandChangelevel mp_coop_sp_a2_firestorm0-1"
 	}
 	"origin" "-1152 -1664 1872"
 	editor
@@ -81454,8 +81776,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[157.302 -1644.36 118.748]"
-		"look" "[309.637 -1446.54 211.603]"
+		"position" "[-1169.73 -1658.14 1347.09]"
+		"look" "[-1169.73 -1658.14 1613.47]"
 	}
 	camera
 	{
