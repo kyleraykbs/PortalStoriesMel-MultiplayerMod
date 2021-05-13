@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8874"
-	"mapversion" "12"
+	"mapversion" "13"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -86,7 +86,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "12"
+	"mapversion" "13"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from sp_a2_once_upon"
 	"detailmaterial" "detail/detailsprites"
@@ -18320,7 +18320,7 @@ entity
 entity
 {
 	"id" "46893"
-	"classname" "point_clientcommand"
+	"classname" "point_servercommand"
 	"targetname" "end_command"
 	"origin" "1736 -2176 2424"
 	editor
@@ -79345,8 +79345,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1951.02 -2035.96 2238.16]"
-		"look" "[1947.36 -2298.27 2191.9]"
+		"position" "[1645.14 -1864.01 2897.25]"
+		"look" "[1647.12 -1860.86 2630.9]"
 	}
 	camera
 	{
