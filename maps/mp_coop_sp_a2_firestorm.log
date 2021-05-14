@@ -1,0 +1,1241 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Generated env_cubemap patch name : maps/mp_coop_sp_a2_firestorm/maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch_-1184_-1136_-368 too long! (max = 128)
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Generated env_cubemap patch name : maps/mp_coop_sp_a2_firestorm/maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch_-1184_-1136_-368 too long! (max = 128)
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Generated env_cubemap patch name : maps/mp_coop_sp_a2_firestorm/maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch_-1184_-1136_-368 too long! (max = 128)
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Generated env_cubemap patch name : maps/mp_coop_sp_a2_firestorm/maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch_-1184_-1136_-368 too long! (max = 128)
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1432 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (896897 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 1543.13 -2198.38 500.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 -3184.00 740.25
+Encountered obsolete static prop option to do its fade in screen space @ -2272.00 -1456.00 -130.38
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 399.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 527.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 655.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 784.00
+Encountered obsolete static prop option to do its fade in screen space @ 5145.81 1442.00 2459.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 1888.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2400.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2144.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2016.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2272.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 816.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 688.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 1072.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 944.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 -79.75
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 48.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 176.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 304.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 432.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 560.69
+Encountered obsolete static prop option to do its fade in screen space @ 2399.00 1778.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -2034.00 -1167.00 892.00
+Encountered obsolete static prop option to do its fade in screen space @ -464.00 -880.00 592.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -528.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ -688.00 -864.25 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1168.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1040.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 944.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -956.00 1093.70
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 400.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 1264.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -848.00 1280.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 448.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 240.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 496.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 624.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 752.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 880.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1008.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1136.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1264.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1392.44
+Encountered obsolete static prop option to do its fade in screen space @ -2132.98 -1186.67 813.34
+Encountered obsolete static prop option to do its fade in screen space @ 4855.00 2102.00 2499.00
+Encountered obsolete static prop option to do its fade in screen space @ 1418.00 2304.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 288.25
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 307.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 435.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 563.38
+Encountered obsolete static prop option to do its fade in screen space @ 1238.00 1453.00 319.00
+Encountered obsolete static prop option to do its fade in screen space @ 1762.00 1207.00 359.00
+Encountered obsolete static prop option to do its fade in screen space @ 1440.00 1088.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1451.14 1156.29 374.09
+Encountered obsolete static prop option to do its fade in screen space @ 1352.00 1136.00 452.47
+Encountered obsolete static prop option to do its fade in screen space @ 1384.00 1032.00 440.00
+Encountered obsolete static prop option to do its fade in screen space @ 1618.00 2032.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1695.75 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1696.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1712.00 260.83
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1744.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ 1838.00 1747.46 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1808.00 1675.04 338.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1672.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1280.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1407.75 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1536.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1664.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1328.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1616.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1344.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1300.00 1600.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1703.00 409.00
+Encountered obsolete static prop option to do its fade in screen space @ -1272.00 1712.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1640.00 296.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1476.00 348.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1280.00 318.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1408.00 316.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1508.00 346.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1512.00 278.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1576.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1200.00 1616.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ -1175.75 1473.25 415.26
+Encountered obsolete static prop option to do its fade in screen space @ -1172.00 1217.00 414.14
+Encountered obsolete static prop option to do its fade in screen space @ -1151.00 1612.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1536.00 256.25
+Encountered obsolete static prop option to do its fade in screen space @ -316.00 404.00 446.14
+Encountered obsolete static prop option to do its fade in screen space @ -57.08 214.13 415.55
+Encountered obsolete static prop option to do its fade in screen space @ 4442.00 1462.92 229.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6577 texinfos to 3145
+Reduced 313 texdatas to 286 (13177 bytes to 11874)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+
+nummapplanes:     ( 20842 / 65536 )
+nummapbrushes:    (  2345 /  8192 )
+nummapbrushsides: ( 22438 / 65536 )
+num_map_overlays: (   258 /   512 )
+nummodels:        (   154 /  1024 )
+num_entities:     (  1551 / 16384 )
+
+10 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (-600.00 976.00 304.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 3072.0 -1376.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3008.0 3072.0 -1376.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2240.0 3072.0 -1376.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2128.0 3072.0 248.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2336.0 3072.0 248.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2224.0 3072.0 248.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 3072.0 248.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3008.0 3072.0 248.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1432 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (901639 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 1543.13 -2198.38 500.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 -3184.00 740.25
+Encountered obsolete static prop option to do its fade in screen space @ -2272.00 -1456.00 -130.38
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 399.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 527.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 655.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 784.00
+Static prop models/props_lights/wall_light_old.mdl outside the map (6608.00, 1506.00, 538.00)
+Encountered obsolete static prop option to do its fade in screen space @ 5145.81 1442.00 2459.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 1888.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2400.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2144.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2016.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2272.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 816.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 688.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 1072.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 944.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 -79.75
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 48.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 176.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 304.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 432.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 560.69
+Encountered obsolete static prop option to do its fade in screen space @ 2399.00 1778.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -2034.00 -1167.00 892.00
+Encountered obsolete static prop option to do its fade in screen space @ -464.00 -880.00 592.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -528.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ -688.00 -864.25 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1168.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1040.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 944.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -956.00 1093.70
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 400.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 1264.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -848.00 1280.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 448.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 240.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 496.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 624.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 752.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 880.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1008.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1136.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1264.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1392.44
+Encountered obsolete static prop option to do its fade in screen space @ -2132.98 -1186.67 813.34
+Static prop models/props_underground/truss_32_256.mdl outside the map (6272.00, 1776.00, 424.00)
+Static prop models/prop_cables/cable_floor_04.mdl outside the map (6504.00, 1416.00, 288.07)
+Static prop models/props_destruction/rubble_corner_128.mdl outside the map (6672.00, 1504.00, 288.40)
+Encountered obsolete static prop option to do its fade in screen space @ 4855.00 2102.00 2499.00
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1832.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1848.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1800.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1816.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1432.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1448.00, 624.00)
+Static prop models/props/wall_pipes_wave/wall_pipes_wave.mdl outside the map (6624.00, 1432.00, 672.00)
+Static prop models/props_underground/floor_tile_a.mdl outside the map (6320.00, 1456.00, 284.25)
+Static prop models/props_underground/floor_tile_b.mdl outside the map (6128.00, 1616.00, 284.25)
+Static prop models/props_underground/tube_paint_leak.mdl outside the map (6204.00, 1520.00, 528.00)
+Static prop models/props_underground/tube_paint_90bend_a.mdl outside the map (6312.00, 1452.00, 532.00)
+Encountered obsolete static prop option to do its fade in screen space @ 1418.00 2304.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 288.25
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 307.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 435.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 563.38
+Encountered obsolete static prop option to do its fade in screen space @ 1238.00 1453.00 319.00
+Encountered obsolete static prop option to do its fade in screen space @ 1762.00 1207.00 359.00
+Encountered obsolete static prop option to do its fade in screen space @ 1440.00 1088.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1451.14 1156.29 374.09
+Encountered obsolete static prop option to do its fade in screen space @ 1352.00 1136.00 452.47
+Encountered obsolete static prop option to do its fade in screen space @ 1384.00 1032.00 440.00
+Encountered obsolete static prop option to do its fade in screen space @ 1618.00 2032.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1695.75 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1696.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1712.00 260.83
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1744.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ 1838.00 1747.46 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1808.00 1675.04 338.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1672.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1280.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1407.75 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1536.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1664.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1328.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1616.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1344.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1300.00 1600.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1703.00 409.00
+Encountered obsolete static prop option to do its fade in screen space @ -1272.00 1712.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1640.00 296.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1476.00 348.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1280.00 318.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1408.00 316.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1508.00 346.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1512.00 278.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1576.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1200.00 1616.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ -1175.75 1473.25 415.26
+Encountered obsolete static prop option to do its fade in screen space @ -1172.00 1217.00 414.14
+Encountered obsolete static prop option to do its fade in screen space @ -1151.00 1612.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1536.00 256.25
+Encountered obsolete static prop option to do its fade in screen space @ -316.00 404.00 446.14
+Encountered obsolete static prop option to do its fade in screen space @ -57.08 214.13 415.55
+Encountered obsolete static prop option to do its fade in screen space @ 4442.00 1462.92 229.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6598 texinfos to 3184
+Reduced 313 texdatas to 288 (13177 bytes to 11922)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+
+nummapplanes:     ( 20906 / 65536 )
+nummapbrushes:    (  2361 /  8192 )
+nummapbrushsides: ( 22534 / 65536 )
+num_map_overlays: (   258 /   512 )
+nummodels:        (   161 /  1024 )
+num_entities:     (  1568 / 16384 )
+
+17 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt
+LoadPortals: couldn't read d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1432 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (901247 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 1543.13 -2198.38 500.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 -3184.00 740.25
+Encountered obsolete static prop option to do its fade in screen space @ -2272.00 -1456.00 -130.38
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 399.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 527.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 655.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 784.00
+Static prop models/props_lights/wall_light_old.mdl outside the map (6608.00, 1506.00, 538.00)
+Encountered obsolete static prop option to do its fade in screen space @ 5145.81 1442.00 2459.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 1888.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2400.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2144.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2016.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2272.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 816.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 688.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 1072.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 944.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 -79.75
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 48.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 176.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 304.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 432.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 560.69
+Encountered obsolete static prop option to do its fade in screen space @ 2399.00 1778.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -2034.00 -1167.00 892.00
+Encountered obsolete static prop option to do its fade in screen space @ -464.00 -880.00 592.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -528.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ -688.00 -864.25 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1168.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1040.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 944.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -956.00 1093.70
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 400.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 1264.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -848.00 1280.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 448.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 240.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 496.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 624.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 752.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 880.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1008.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1136.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1264.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1392.44
+Encountered obsolete static prop option to do its fade in screen space @ -2132.98 -1186.67 813.34
+Static prop models/props_underground/truss_32_256.mdl outside the map (6272.00, 1776.00, 424.00)
+Static prop models/prop_cables/cable_floor_04.mdl outside the map (6504.00, 1416.00, 288.07)
+Static prop models/props_destruction/rubble_corner_128.mdl outside the map (6672.00, 1504.00, 288.40)
+Encountered obsolete static prop option to do its fade in screen space @ 4855.00 2102.00 2499.00
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1832.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1848.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1800.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1816.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1432.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1448.00, 624.00)
+Static prop models/props/wall_pipes_wave/wall_pipes_wave.mdl outside the map (6624.00, 1432.00, 672.00)
+Static prop models/props_underground/floor_tile_a.mdl outside the map (6320.00, 1456.00, 284.25)
+Static prop models/props_underground/floor_tile_b.mdl outside the map (6128.00, 1616.00, 284.25)
+Static prop models/props_underground/tube_paint_leak.mdl outside the map (6204.00, 1520.00, 528.00)
+Static prop models/props_underground/tube_paint_90bend_a.mdl outside the map (6312.00, 1452.00, 532.00)
+Encountered obsolete static prop option to do its fade in screen space @ 1418.00 2304.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 288.25
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 307.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 435.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 563.38
+Encountered obsolete static prop option to do its fade in screen space @ 1238.00 1453.00 319.00
+Encountered obsolete static prop option to do its fade in screen space @ 1762.00 1207.00 359.00
+Encountered obsolete static prop option to do its fade in screen space @ 1440.00 1088.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1451.14 1156.29 374.09
+Encountered obsolete static prop option to do its fade in screen space @ 1352.00 1136.00 452.47
+Encountered obsolete static prop option to do its fade in screen space @ 1384.00 1032.00 440.00
+Encountered obsolete static prop option to do its fade in screen space @ 1618.00 2032.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1695.75 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1696.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1712.00 260.83
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1744.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ 1838.00 1747.46 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1808.00 1675.04 338.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1672.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1280.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1407.75 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1536.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1664.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1328.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1616.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1344.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1300.00 1600.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1703.00 409.00
+Encountered obsolete static prop option to do its fade in screen space @ -1272.00 1712.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1640.00 296.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1476.00 348.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1280.00 318.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1408.00 316.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1508.00 346.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1512.00 278.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1576.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1200.00 1616.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ -1175.75 1473.25 415.26
+Encountered obsolete static prop option to do its fade in screen space @ -1172.00 1217.00 414.14
+Encountered obsolete static prop option to do its fade in screen space @ -1151.00 1612.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1536.00 256.25
+Encountered obsolete static prop option to do its fade in screen space @ -316.00 404.00 446.14
+Encountered obsolete static prop option to do its fade in screen space @ -57.08 214.13 415.55
+Encountered obsolete static prop option to do its fade in screen space @ 4442.00 1462.92 229.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6598 texinfos to 3161
+Reduced 313 texdatas to 286 (13177 bytes to 11874)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+
+nummapplanes:     ( 20908 / 65536 )
+nummapbrushes:    (  2361 /  8192 )
+nummapbrushsides: ( 22534 / 65536 )
+num_map_overlays: (   258 /   512 )
+nummodels:        (   161 /  1024 )
+num_entities:     (  1568 / 16384 )
+
+10 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt
+1260 portalclusters
+4736 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 61063 visible clusters (0.00%)
+Total clusters visible: 715444
+Average clusters visible: 567
+Building PAS...
+Average clusters audible: 1023
+visdatasize:297243  compressed from 403200
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1432 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (901247 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 1543.13 -2198.38 500.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 -3184.00 740.25
+Encountered obsolete static prop option to do its fade in screen space @ -2272.00 -1456.00 -130.38
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 399.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 527.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 655.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 784.00
+Static prop models/props_lights/wall_light_old.mdl outside the map (6608.00, 1506.00, 538.00)
+Encountered obsolete static prop option to do its fade in screen space @ 5145.81 1442.00 2459.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 1888.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2400.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2144.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2016.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2272.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 816.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 688.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 1072.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 944.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 -79.75
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 48.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 176.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 304.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 432.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 560.69
+Encountered obsolete static prop option to do its fade in screen space @ 2399.00 1778.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -2034.00 -1167.00 892.00
+Encountered obsolete static prop option to do its fade in screen space @ -464.00 -880.00 592.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -528.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ -688.00 -864.25 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1168.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1040.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 944.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -956.00 1093.70
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 400.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 1264.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -848.00 1280.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 448.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 240.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 496.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 624.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 752.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 880.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1008.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1136.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1264.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1392.44
+Encountered obsolete static prop option to do its fade in screen space @ -2132.98 -1186.67 813.34
+Static prop models/props_underground/truss_32_256.mdl outside the map (6272.00, 1776.00, 424.00)
+Static prop models/prop_cables/cable_floor_04.mdl outside the map (6504.00, 1416.00, 288.07)
+Static prop models/props_destruction/rubble_corner_128.mdl outside the map (6672.00, 1504.00, 288.40)
+Encountered obsolete static prop option to do its fade in screen space @ 4855.00 2102.00 2499.00
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1832.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1848.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1800.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1816.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1432.00, 624.00)
+Static prop models/props_underground/frame_256_01.mdl outside the map (6776.00, 1448.00, 624.00)
+Static prop models/props/wall_pipes_wave/wall_pipes_wave.mdl outside the map (6624.00, 1432.00, 672.00)
+Static prop models/props_underground/floor_tile_a.mdl outside the map (6320.00, 1456.00, 284.25)
+Static prop models/props_underground/floor_tile_b.mdl outside the map (6128.00, 1616.00, 284.25)
+Static prop models/props_underground/tube_paint_leak.mdl outside the map (6204.00, 1520.00, 528.00)
+Static prop models/props_underground/tube_paint_90bend_a.mdl outside the map (6312.00, 1452.00, 532.00)
+Encountered obsolete static prop option to do its fade in screen space @ 1418.00 2304.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 288.25
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 307.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 435.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 563.38
+Encountered obsolete static prop option to do its fade in screen space @ 1238.00 1453.00 319.00
+Encountered obsolete static prop option to do its fade in screen space @ 1762.00 1207.00 359.00
+Encountered obsolete static prop option to do its fade in screen space @ 1440.00 1088.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1451.14 1156.29 374.09
+Encountered obsolete static prop option to do its fade in screen space @ 1352.00 1136.00 452.47
+Encountered obsolete static prop option to do its fade in screen space @ 1384.00 1032.00 440.00
+Encountered obsolete static prop option to do its fade in screen space @ 1618.00 2032.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1695.75 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1696.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1712.00 260.83
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1744.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ 1838.00 1747.46 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1808.00 1675.04 338.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1672.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1280.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1407.75 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1536.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1664.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1328.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1616.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1344.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1300.00 1600.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1703.00 409.00
+Encountered obsolete static prop option to do its fade in screen space @ -1272.00 1712.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1640.00 296.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1476.00 348.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1280.00 318.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1408.00 316.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1508.00 346.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1512.00 278.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1576.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1200.00 1616.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ -1175.75 1473.25 415.26
+Encountered obsolete static prop option to do its fade in screen space @ -1172.00 1217.00 414.14
+Encountered obsolete static prop option to do its fade in screen space @ -1151.00 1612.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1536.00 256.25
+Encountered obsolete static prop option to do its fade in screen space @ -316.00 404.00 446.14
+Encountered obsolete static prop option to do its fade in screen space @ -57.08 214.13 415.55
+Encountered obsolete static prop option to do its fade in screen space @ 4442.00 1462.92 229.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6598 texinfos to 3161
+Reduced 313 texdatas to 286 (13177 bytes to 11874)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+
+nummapplanes:     ( 20908 / 65536 )
+nummapbrushes:    (  2361 /  8192 )
+nummapbrushsides: ( 22534 / 65536 )
+num_map_overlays: (   258 /   512 )
+nummodels:        (   161 /  1024 )
+num_entities:     (  1568 / 16384 )
+
+11 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt
+1260 portalclusters
+4736 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 61063 visible clusters (0.00%)
+Total clusters visible: 715444
+Average clusters visible: 567
+Building PAS...
+Average clusters audible: 1023
+visdatasize:297243  compressed from 403200
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+7634 faces
+2 degenerate faces
+2974035 square feet [428261088.00 square inches]
+310 Displacements
+761037 Square Feet [109589456.00 Square Inches]
+7632 patches before subdivision
+142290 patches after subdivision
+309 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6560756, max 439
+transfer lists:  50.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(38365, 29885, 16557)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3573, 2184, 1048)
+Build Patch/Sample Hash Table(s).....Done<1.4018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 161/1024         7728/49152    (15.7%) 
+brushes               2361/8192        28332/98304    (28.8%) 
+brushsides           20684/65536      165472/524288   (31.6%) 
+planes               20908/65536      418160/1310720  (31.9%) 
+vertexes             18795/65536      225540/786432   (28.7%) 
+nodes                 3282/65536      105024/2097152  ( 5.0%) 
+texinfos              3161/12288      227592/884736   (25.7%) 
+texdata                286/2048         9152/65536    (14.0%) 
+dispinfos              310/0           54560/0        ( 0.0%) 
+disp_verts           23006/0          460120/0        ( 0.0%) 
+disp_tris            36128/0           72256/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      707040/0          707040/0        ( 0.0%) 
+faces                 7634/65536      427504/3670016  (11.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5760/65536      322560/3670016  ( 8.8%) 
+facebrushes            626/0            1252/0        ( 0.0%) 
+facebrushlists        7634/0           30536/0        ( 0.0%) 
+leaves                3444/65536      110208/2097152  ( 5.3%) 
+leaffaces            10791/65536       21582/131072   (16.5%) 
+leafbrushes           4679/65536        9358/131072   ( 7.1%) 
+areas                   12/256            96/2048     ( 4.7%) 
+surfedges            60256/512000     241024/2048000  (11.8%) 
+edges                38264/256000     153056/1024000  (14.9%) 
+LDR worldlights        309/8192        30900/819200   ( 3.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           2042/32768       20420/327680   ( 6.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47148/65536       94296/131072   (71.9%) 
+cubemapsamples          52/1024          832/16384    ( 5.1%) 
+overlays               258/512         90816/180224   (50.4%) 
+LDR lightdata         [variable]    12254284/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      297243/16777216 ( 1.8%) 
+entdata               [variable]      546585/393216   (139.0%) VERY FULL!
+LDR ambient table     3444/65536       13776/262144   ( 5.3%) 
+HDR ambient table     3444/65536       13776/262144   ( 5.3%) 
+LDR leaf ambient     14213/65536      397964/1835008  (21.7%) 
+HDR leaf ambient      3444/65536       96432/1835008  ( 5.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/247986   ( 0.0%) 
+pakfile               [variable]     3985664/0        ( 0.0%) 
+physics               [variable]      901247/4194304  (21.5%) 
+physics terrain       [variable]      119160/1048576  (11.4%) 
+
+Level flags = 0
+
+Total triangle count: 21921
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+51 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop wet for material CONCRETE/URBAN_SIDEWALK_02A_CHEAP, using default
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03a_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/anim_wp/framework/blend_backpanels02_pipes_wvt_patch
+Patching WVT material: maps/mp_coop_sp_a2_firestorm/nature/blendrockdirt_tunnel03b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1432 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (904151 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 1543.13 -2198.38 500.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 -3184.00 740.25
+Encountered obsolete static prop option to do its fade in screen space @ -2272.00 -1456.00 -130.38
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 399.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 527.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 655.56
+Encountered obsolete static prop option to do its fade in screen space @ 1776.00 -2352.00 784.00
+Encountered obsolete static prop option to do its fade in screen space @ 5145.81 1442.00 2459.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 1888.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2400.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2144.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2016.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4624.00 2272.00 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 816.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 688.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 1072.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 944.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 -79.75
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 48.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 176.25
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 304.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 432.69
+Encountered obsolete static prop option to do its fade in screen space @ 4447.68 2673.07 560.69
+Encountered obsolete static prop option to do its fade in screen space @ 2399.00 1778.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -2034.00 -1167.00 892.00
+Encountered obsolete static prop option to do its fade in screen space @ -464.00 -880.00 592.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -528.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ -688.00 -864.25 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1168.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -912.00 1040.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 944.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -956.00 1093.70
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 848.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 400.00 -880.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -896.00 1264.00
+Encountered obsolete static prop option to do its fade in screen space @ 848.00 -848.00 1280.00
+Encountered obsolete static prop option to do its fade in screen space @ -592.00 -880.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 320.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 448.25
+Encountered obsolete static prop option to do its fade in screen space @ -192.00 -304.00 576.25
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 240.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 496.00
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 624.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 752.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 880.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1008.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1136.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1264.44
+Encountered obsolete static prop option to do its fade in screen space @ -880.00 -832.00 1392.44
+Encountered obsolete static prop option to do its fade in screen space @ -2132.98 -1186.67 813.34
+Encountered obsolete static prop option to do its fade in screen space @ 4855.00 2102.00 2499.00
+Encountered obsolete static prop option to do its fade in screen space @ 1418.00 2304.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 288.25
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1504.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 307.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 435.38
+Encountered obsolete static prop option to do its fade in screen space @ 1736.00 1200.00 563.38
+Encountered obsolete static prop option to do its fade in screen space @ 1238.00 1453.00 319.00
+Encountered obsolete static prop option to do its fade in screen space @ 1762.00 1207.00 359.00
+Encountered obsolete static prop option to do its fade in screen space @ 1440.00 1088.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1451.14 1156.29 374.09
+Encountered obsolete static prop option to do its fade in screen space @ 1352.00 1136.00 452.47
+Encountered obsolete static prop option to do its fade in screen space @ 1384.00 1032.00 440.00
+Encountered obsolete static prop option to do its fade in screen space @ 1618.00 2032.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1695.75 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1632.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 1696.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1568.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1792.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1712.00 260.83
+Encountered obsolete static prop option to do its fade in screen space @ 1840.00 1744.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ 1838.00 1747.46 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1808.00 1675.04 338.00
+Encountered obsolete static prop option to do its fade in screen space @ 1824.00 1672.00 368.00
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1280.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1407.75 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1536.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1232.00 1664.00 415.75
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1328.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1616.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1344.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1300.00 1600.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1703.00 409.00
+Encountered obsolete static prop option to do its fade in screen space @ -1272.00 1712.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1640.00 296.00
+Encountered obsolete static prop option to do its fade in screen space @ -1296.00 1476.00 348.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1280.00 318.00
+Encountered obsolete static prop option to do its fade in screen space @ -1262.00 1408.00 316.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1508.00 346.00
+Encountered obsolete static prop option to do its fade in screen space @ -1256.00 1512.00 278.00
+Encountered obsolete static prop option to do its fade in screen space @ -1264.00 1576.00 328.00
+Encountered obsolete static prop option to do its fade in screen space @ -1200.00 1616.00 416.00
+Encountered obsolete static prop option to do its fade in screen space @ -1175.75 1473.25 415.26
+Encountered obsolete static prop option to do its fade in screen space @ -1172.00 1217.00 414.14
+Encountered obsolete static prop option to do its fade in screen space @ -1151.00 1612.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ -1088.00 1536.00 256.25
+Encountered obsolete static prop option to do its fade in screen space @ -316.00 404.00 446.14
+Encountered obsolete static prop option to do its fade in screen space @ -57.08 214.13 415.55
+Encountered obsolete static prop option to do its fade in screen space @ 4442.00 1462.92 229.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6598 texinfos to 3166
+Reduced 313 texdatas to 286 (13177 bytes to 11874)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+
+nummapplanes:     ( 20910 / 65536 )
+nummapbrushes:    (  2361 /  8192 )
+nummapbrushsides: ( 22534 / 65536 )
+num_map_overlays: (   258 /   512 )
+nummodels:        (   161 /  1024 )
+num_entities:     (  1568 / 16384 )
+
+10 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.prt
+1265 portalclusters
+4761 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 61175 visible clusters (0.00%)
+Total clusters visible: 718517
+Average clusters visible: 567
+Building PAS...
+Average clusters audible: 1025
+visdatasize:300189  compressed from 404800
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+Loaded alpha texture materials\Metal\metalgrate018c.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\metal\underground_metalgrate003a.vtf
+Loaded alpha texture materials\Metal\backstage_grate_001a.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\tools\invismetal.vtf
+7652 faces
+2 degenerate faces
+2980955 square feet [429257632.00 square inches]
+310 Displacements
+761037 Square Feet [109589456.00 Square Inches]
+7650 patches before subdivision
+142928 patches after subdivision
+309 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7706661, max 456
+transfer lists:  58.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(68938, 39715, 21155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11512, 4044, 1763)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2679, 712, 268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(712, 151, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(198, 39, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(57, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(16, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<1.3634 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 161/1024         7728/49152    (15.7%) 
+brushes               2361/8192        28332/98304    (28.8%) 
+brushsides           20684/65536      165472/524288   (31.6%) 
+planes               20910/65536      418200/1310720  (31.9%) 
+vertexes             18819/65536      225828/786432   (28.7%) 
+nodes                 3289/65536      105248/2097152  ( 5.0%) 
+texinfos              3166/12288      227952/884736   (25.8%) 
+texdata                286/2048         9152/65536    (14.0%) 
+dispinfos              310/0           54560/0        ( 0.0%) 
+disp_verts           23006/0          460120/0        ( 0.0%) 
+disp_tris            36128/0           72256/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      707040/0          707040/0        ( 0.0%) 
+faces                 7652/65536      428512/3670016  (11.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5771/65536      323176/3670016  ( 8.8%) 
+facebrushes            639/0            1278/0        ( 0.0%) 
+facebrushlists        7652/0           30608/0        ( 0.0%) 
+leaves                3451/65536      110432/2097152  ( 5.3%) 
+leaffaces            10827/65536       21654/131072   (16.5%) 
+leafbrushes           4692/65536        9384/131072   ( 7.2%) 
+areas                   12/256            96/2048     ( 4.7%) 
+surfedges            60392/512000     241568/2048000  (11.8%) 
+edges                38348/256000     153392/1024000  (15.0%) 
+LDR worldlights        309/8192        30900/819200   ( 3.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           2045/32768       20450/327680   ( 6.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47193/65536       94386/131072   (72.0%) 
+cubemapsamples          52/1024          832/16384    ( 5.1%) 
+overlays               258/512         90816/180224   (50.4%) 
+LDR lightdata         [variable]    12478008/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      300189/16777216 ( 1.8%) 
+entdata               [variable]      546517/393216   (139.0%) VERY FULL!
+LDR ambient table     3451/65536       13804/262144   ( 5.3%) 
+HDR ambient table     3451/65536       13804/262144   ( 5.3%) 
+LDR leaf ambient     14687/65536      411236/1835008  (22.4%) 
+HDR leaf ambient      3451/65536       96628/1835008  ( 5.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/249404   ( 0.0%) 
+pakfile               [variable]    18683960/0        ( 0.0%) 
+physics               [variable]      904151/4194304  (21.6%) 
+physics terrain       [variable]      119160/1048576  (11.4%) 
+
+Level flags = 1
+
+Total triangle count: 21977
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+16 minutes, 44 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+Loaded alpha texture materials\Metal\metalgrate018c.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001c_mip0.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\metal\underground_metalgrate003a.vtf
+Loaded alpha texture materials\Metal\backstage_grate_001a.vtf
+Loaded alpha texture materials\metal\underground_metalgrate001a_mip0.vtf
+Loaded alpha texture materials\tools\invismetal.vtf
+7652 faces
+2 degenerate faces
+2980955 square feet [429257632.00 square inches]
+310 Displacements
+761037 Square Feet [109589456.00 Square Inches]
+7650 patches before subdivision
+142928 patches after subdivision
+309 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7706661, max 456
+transfer lists:  58.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(68939, 39715, 21155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11512, 4044, 1763)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2679, 712, 268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(712, 151, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(198, 39, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(57, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(16, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<1.5025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 161/1024         7728/49152    (15.7%) 
+brushes               2361/8192        28332/98304    (28.8%) 
+brushsides           20684/65536      165472/524288   (31.6%) 
+planes               20910/65536      418200/1310720  (31.9%) 
+vertexes             18819/65536      225828/786432   (28.7%) 
+nodes                 3289/65536      105248/2097152  ( 5.0%) 
+texinfos              3166/12288      227952/884736   (25.8%) 
+texdata                286/2048         9152/65536    (14.0%) 
+dispinfos              310/0           54560/0        ( 0.0%) 
+disp_verts           23006/0          460120/0        ( 0.0%) 
+disp_tris            36128/0           72256/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      707040/0          707040/0        ( 0.0%) 
+faces                 7652/65536      428512/3670016  (11.7%) 
+hdr faces             7652/65536      428512/3670016  (11.7%) 
+origfaces             5771/65536      323176/3670016  ( 8.8%) 
+facebrushes            639/0            1278/0        ( 0.0%) 
+facebrushlists        7652/0           30608/0        ( 0.0%) 
+leaves                3451/65536      110432/2097152  ( 5.3%) 
+leaffaces            10827/65536       21654/131072   (16.5%) 
+leafbrushes           4692/65536        9384/131072   ( 7.2%) 
+areas                   12/256            96/2048     ( 4.7%) 
+surfedges            60392/512000     241568/2048000  (11.8%) 
+edges                38348/256000     153392/1024000  (15.0%) 
+LDR worldlights        309/8192        30900/819200   ( 3.8%) 
+HDR worldlights        309/8192        30900/819200   ( 3.8%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           2045/32768       20450/327680   ( 6.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47193/65536       94386/131072   (72.0%) 
+cubemapsamples          52/1024          832/16384    ( 5.1%) 
+overlays               258/512         90816/180224   (50.4%) 
+LDR lightdata         [variable]    12478008/0        ( 0.0%) 
+HDR lightdata         [variable]    12478008/0        ( 0.0%) 
+visdata               [variable]      300189/16777216 ( 1.8%) 
+entdata               [variable]      546517/393216   (139.0%) VERY FULL!
+LDR ambient table     3451/65536       13804/262144   ( 5.3%) 
+HDR ambient table     3451/65536       13804/262144   ( 5.3%) 
+LDR leaf ambient     14687/65536      411236/1835008  (22.4%) 
+HDR leaf ambient     14682/65536      411096/1835008  (22.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/249404   ( 0.0%) 
+pakfile               [variable]    33403904/0        ( 0.0%) 
+physics               [variable]      904151/4194304  (21.6%) 
+physics terrain       [variable]      119160/1048576  (11.4%) 
+
+Level flags = 3
+
+Total triangle count: 21977
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a2_firestorm.bsp
+43 minutes, 18 seconds elapsed
