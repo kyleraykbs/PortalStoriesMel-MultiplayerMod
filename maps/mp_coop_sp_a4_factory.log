@@ -1,0 +1,156 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_factory.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Material not found!: PROPS/METALDUCT001A
+Material not found!: TOWN/CEILINGTILEB
+Material not found!: LP/CONCRETE/1940_CONCRETE_WALL001B_BOTTOM
+Material not found!: LP/CONCRETE/1940_CONCRETE_WALL001B
+Material not found!: PROPS/BLUESCREEN_01A
+Material not found!: NATURE/COBWEB00
+Material not found!: CLEAN_UNDERGROUND/PLASTER_WALL007C
+Material not found!: PROPS/STATIC_SCREEN
+Material not found!: PROPS/BROKEN_SCREEN
+Patching WVT material: maps/mp_coop_sp_a4_factory/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1024 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_factory.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1131165 bytes)
+Error loading studio model "models/props/de_nuke/electricalbox03.mdl"!
+Error loading studio model "models/props_backstage/triple_firepipe_straight_d.mdl"!
+Error loading studio model "models/props/cs_militia/boxes_garage_lower.mdl"!
+Error loading studio model "models/props/de_prodigy/fanhousing.mdl"!
+Error loading studio model "models/portal_stories/props_office/asbestos_cube.mdl"!
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1088.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1216.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1344.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1472.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1600.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1728.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1856.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -1984.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -2112.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -2240.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -2368.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -2496.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 7704.00 -2624.00 279.00
+Encountered obsolete static prop option to do its fade in screen space @ 6808.00 -1904.00 704.00
+Encountered obsolete static prop option to do its fade in screen space @ 6808.00 -1904.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 6808.00 -1904.00 448.00
+Encountered obsolete static prop option to do its fade in screen space @ 6808.00 -1904.00 320.00
+Error loading studio model "models/props/cs_office/box_office_indoor_32.mdl"!
+Error loading studio model "models/props_interiors/water_cooler.mdl"!
+Encountered obsolete static prop option to do its fade in screen space @ 6256.00 -1535.33 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 6128.00 -1536.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 6032.00 -1504.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 6032.00 -1568.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 6064.00 -1536.00 751.75
+Encountered obsolete static prop option to do its fade in screen space @ 6192.00 -1536.00 751.75
+Encountered obsolete static prop option to do its fade in screen space @ 5312.00 -2080.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5440.00 -2080.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5443.09 -2208.00 701.79
+Encountered obsolete static prop option to do its fade in screen space @ 5312.00 -2205.82 703.50
+Encountered obsolete static prop option to do its fade in screen space @ 5426.16 -2387.60 528.00
+Error loading studio model "models/props/cs_office/exit_ceiling.mdl"!
+Error loading studio model "models/props/cs_assault/light_shop2.mdl"!
+Encountered obsolete static prop option to do its fade in screen space @ 5979.94 -1078.71 504.00
+Encountered obsolete static prop option to do its fade in screen space @ 5936.00 -1088.00 776.00
+Encountered obsolete static prop option to do its fade in screen space @ 5936.00 -1216.00 776.00
+Encountered obsolete static prop option to do its fade in screen space @ 5808.00 -1216.00 776.00
+Encountered obsolete static prop option to do its fade in screen space @ 5680.00 -1184.00 776.00
+Encountered obsolete static prop option to do its fade in screen space @ 5680.00 -1056.00 776.00
+Encountered obsolete static prop option to do its fade in screen space @ 5552.00 -1216.00 776.00
+Encountered obsolete static prop option to do its fade in screen space @ 5952.00 -1152.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5824.00 -1088.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5824.00 -1216.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5696.00 -1088.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5568.00 -1088.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5920.00 -1056.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5728.00 -1184.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5664.00 -1184.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5600.00 -1184.00 720.00
+Encountered obsolete static prop option to do its fade in screen space @ 5536.00 -1182.91 709.79
+Encountered obsolete static prop option to do its fade in screen space @ 5568.00 -1088.00 752.00
+Encountered obsolete static prop option to do its fade in screen space @ 5696.00 -1088.00 752.00
+Encountered obsolete static prop option to do its fade in screen space @ 5824.00 -1088.00 752.00
+Encountered obsolete static prop option to do its fade in screen space @ 5952.00 -1088.00 752.00
+Encountered obsolete static prop option to do its fade in screen space @ 3471.90 -1200.00 80.00
+Encountered obsolete static prop option to do its fade in screen space @ 3471.90 -1232.00 80.00
+Encountered obsolete static prop option to do its fade in screen space @ 3200.00 -1216.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 3168.00 -1216.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 2258.50 -944.00 48.99
+Encountered obsolete static prop option to do its fade in screen space @ 2274.49 -928.00 49.54
+Encountered obsolete static prop option to do its fade in screen space @ 2954.67 -190.32 453.83
+Encountered obsolete static prop option to do its fade in screen space @ 2954.67 -64.67 429.41
+Encountered obsolete static prop option to do its fade in screen space @ 2954.67 60.97 404.98
+Encountered obsolete static prop option to do its fade in screen space @ 2954.67 186.62 380.56
+Encountered obsolete static prop option to do its fade in screen space @ 2954.67 312.27 356.14
+Encountered obsolete static prop option to do its fade in screen space @ 2954.67 437.92 331.71
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 16.00
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 896.00
+Encountered obsolete static prop option to do its fade in screen space @ 2983.28 -182.39 768.00
+Encountered obsolete static prop option to do its fade in screen space @ 2926.39 415.29 896.25
+Encountered obsolete static prop option to do its fade in screen space @ 2926.39 415.29 784.25
+Encountered obsolete static prop option to do its fade in screen space @ 2926.39 415.29 656.25
+Encountered obsolete static prop option to do its fade in screen space @ 2926.39 415.29 528.25
+Encountered obsolete static prop option to do its fade in screen space @ 2926.39 415.29 400.25
+Error loading studio model "models/anim_wp/room_transform/arm_exterior_tiny_skins.mdl"!
+Error loading studio model "models/props/de_nuke/electricity_box.mdl"!
+Error loading studio model "models/props_unique/coffeemachine01.mdl"!
+Error loading studio model "models/props_interiors/styrofoam_cups.mdl"!
+Encountered obsolete static prop option to do its fade in screen space @ 9765.00 -2740.33 527.00
+Encountered obsolete static prop option to do its fade in screen space @ 9744.00 -2774.82 608.00
+Error loading studio model "models/labware/goggles.mdl"!
+Error loading studio model "models/props_interiors/corkboardverticle01.mdl"!
+Error loading studio model "models/props_equipment/snack_machine_glass.mdl"!
+Error loading studio model "models/props_interiors/refrigerator02_main.mdl"!
+Error loading studio model "models/props_interiors/refrigerator02_lowerdoor.mdl"!
+Error loading studio model "models/props_interiors/refrigerator02_freezerdoor.mdl"!
+Error loading studio model "models/props_interiors/sink_industrial01.mdl"!
+Error loading studio model "models/props_office/vending_machine01.mdl"!
+Error loading studio model "models/props_equipment/snack_machine.mdl"!
+Error loading studio model "models/labware/tuberack2.mdl"!
+Error loading studio model "models/labware/flask2.mdl"!
+Error loading studio model "models/labware/beaker1.mdl"!
+Error loading studio model "models/labware/bottle2.mdl"!
+Error loading studio model "models/labware/burner.mdl"!
+Error loading studio model "models/props_underground/projector_screen_blank.mdl"!
+Error loading studio model "models/props_equipment/elevator_buttons.mdl"!
+Encountered obsolete static prop option to do its fade in screen space @ 3408.00 -1488.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 3408.00 -1520.00 208.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5068 texinfos to 3316
+Reduced 332 texdatas to 304 (14461 bytes to 13331)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_factory.bsp
+
+nummapplanes:     ( 20894 / 65536 )
+nummapbrushes:    (  2965 /  8192 )
+nummapbrushsides: ( 26168 / 65536 )
+num_map_overlays: (   286 /   512 )
+nummodels:        (   226 /  1024 )
+num_entities:     (  1557 / 16384 )
+
+12 seconds elapsed
