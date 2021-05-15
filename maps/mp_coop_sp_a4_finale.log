@@ -1,0 +1,399 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 680 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (395292 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 72.75 -846.00 235.00
+Encountered obsolete static prop option to do its fade in screen space @ -1024.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ -896.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1120.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1184.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1248.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 672.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 608.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1040.00 832.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 160.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 32.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 -95.75 601.29
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1845 texinfos to 1173
+Reduced 149 texdatas to 134 (6664 bytes to 6096)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.bsp
+
+nummapplanes:     (  4286 / 65536 )
+nummapbrushes:    (  1035 /  8192 )
+nummapbrushsides: (  7238 / 65536 )
+num_map_overlays: (    63 /   512 )
+nummodels:        (   105 /  1024 )
+num_entities:     (  2141 / 16384 )
+
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 680 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (402726 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 72.75 -846.00 235.00
+Encountered obsolete static prop option to do its fade in screen space @ -1024.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ -896.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1120.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1184.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1248.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 672.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 608.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1040.00 832.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 160.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 32.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 -95.75 601.29
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1893 texinfos to 1195
+Reduced 154 texdatas to 137 (6793 bytes to 6177)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.bsp
+
+nummapplanes:     (  4340 / 65536 )
+nummapbrushes:    (  1054 /  8192 )
+nummapbrushsides: (  7352 / 65536 )
+num_map_overlays: (    63 /   512 )
+nummodels:        (   108 /  1024 )
+num_entities:     (  2165 / 16384 )
+
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 680 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (402726 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 72.75 -846.00 235.00
+Encountered obsolete static prop option to do its fade in screen space @ -1024.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ -896.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1120.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1184.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1248.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 672.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 608.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1040.00 832.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 160.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 32.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 -95.75 601.29
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1893 texinfos to 1195
+Reduced 154 texdatas to 137 (6793 bytes to 6177)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.bsp
+
+nummapplanes:     (  4340 / 65536 )
+nummapbrushes:    (  1054 /  8192 )
+nummapbrushsides: (  7352 / 65536 )
+num_map_overlays: (    63 /   512 )
+nummodels:        (   108 /  1024 )
+num_entities:     (  2165 / 16384 )
+
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 680 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (402726 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 72.75 -846.00 235.00
+Encountered obsolete static prop option to do its fade in screen space @ -1024.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ -896.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1120.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1184.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1248.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 672.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 608.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1040.00 832.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 160.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 32.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 -95.75 601.29
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1893 texinfos to 1195
+Reduced 154 texdatas to 137 (6793 bytes to 6177)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.bsp
+
+nummapplanes:     (  4340 / 65536 )
+nummapbrushes:    (  1054 /  8192 )
+nummapbrushsides: (  7352 / 65536 )
+num_map_overlays: (    63 /   512 )
+nummodels:        (   108 /  1024 )
+num_entities:     (  2165 / 16384 )
+
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 680 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (403280 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 72.75 -846.00 235.00
+Encountered obsolete static prop option to do its fade in screen space @ -1024.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ -896.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1120.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1184.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1248.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 672.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 608.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1040.00 832.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 160.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 32.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 -95.75 601.29
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1896 texinfos to 1198
+Reduced 154 texdatas to 137 (6793 bytes to 6177)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.bsp
+
+nummapplanes:     (  4364 / 65536 )
+nummapbrushes:    (  1055 /  8192 )
+nummapbrushsides: (  7358 / 65536 )
+num_map_overlays: (    63 /   512 )
+nummodels:        (   109 /  1024 )
+num_entities:     (  2167 / 16384 )
+
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 680 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (403280 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 72.75 -846.00 235.00
+Encountered obsolete static prop option to do its fade in screen space @ -1024.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ -896.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1120.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1184.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1248.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 672.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 608.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1040.00 832.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 160.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 32.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 -95.75 601.29
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1896 texinfos to 1198
+Reduced 154 texdatas to 137 (6793 bytes to 6177)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.bsp
+
+nummapplanes:     (  4364 / 65536 )
+nummapbrushes:    (  1055 /  8192 )
+nummapbrushsides: (  7358 / 65536 )
+num_map_overlays: (    63 /   512 )
+nummodels:        (   109 /  1024 )
+num_entities:     (  2167 / 16384 )
+
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 680 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (403280 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 72.75 -846.00 235.00
+Encountered obsolete static prop option to do its fade in screen space @ -1024.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ -896.00 752.00 544.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 208.00
+Encountered obsolete static prop option to do its fade in screen space @ 120.00 -224.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1120.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1184.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1248.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 1056.00 300.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 464.00
+Encountered obsolete static prop option to do its fade in screen space @ 1312.00 760.00 336.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 672.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1104.00 608.00 560.00
+Encountered obsolete static prop option to do its fade in screen space @ 1040.00 832.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 160.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 32.25 601.29
+Encountered obsolete static prop option to do its fade in screen space @ 1035.83 -95.75 601.29
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1896 texinfos to 1198
+Reduced 154 texdatas to 137 (6793 bytes to 6177)
+Writing d:\program files (x86)\steam\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a4_finale.bsp
+
+nummapplanes:     (  4364 / 65536 )
+nummapbrushes:    (  1055 /  8192 )
+nummapbrushsides: (  7358 / 65536 )
+num_map_overlays: (    63 /   512 )
+nummodels:        (   109 /  1024 )
+num_entities:     (  2167 / 16384 )
+
+1 second elapsed
