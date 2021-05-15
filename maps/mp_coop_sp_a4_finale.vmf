@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8874"
-	"mapversion" "10"
+	"mapversion" "11"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -128,7 +128,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "10"
+	"mapversion" "11"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from sp_a4_finale"
 	"detailmaterial" "detail/detailsprites"
@@ -88813,8 +88813,8 @@ entity
 {
 	"id" "36889"
 	"classname" "trigger_hurt"
-	"damage" "350"
-	"damagecap" "20"
+	"damage" "0"
+	"damagecap" "0"
 	"damagemodel" "0"
 	"damagetype" "8"
 	"nodmgforce" "0"
@@ -168138,8 +168138,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1103.55 920.456 284.79]"
-		"look" "[889.163 923.451 126.71]"
+		"position" "[1135.96 918.258 343.194]"
+		"look" "[946.987 914.3 155.489]"
 	}
 }
 cordons
