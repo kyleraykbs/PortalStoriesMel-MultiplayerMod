@@ -1,0 +1,995 @@
+//soundscipt written in python by Lpfreaky90
+"fake_cave.garden_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_1.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"2176"
+						"input_position_0[1]"	"2176"
+						"input_position_0[2]"	"196"
+						
+						//position 2
+						"input_position_1[0]"	"2206"
+						"input_position_1[1]"	"2816"
+						"input_position_1[2]"	"345"
+						
+						//position 3
+						"input_position_2[0]"	"2768"
+						"input_position_2[1]"	"2112"
+						"input_position_2[2]"	"199"
+						
+						//position 4
+						"input_position_3[0]"	"3200"
+						"input_position_3[1]"	"1536"
+						"input_position_3[2]"	"193"
+						
+						//position 5
+						"input_position_4[0]"	"3456"
+						"input_position_4[1]"	"1600"
+						"input_position_4[2]"	"188"
+						
+						//position 6
+						"input_position_5[0]"	"-1152"
+						"input_position_5[1]"	"2528"
+						"input_position_5[2]"	"331"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"3967"
+						"input_position_7[1]"	"1519"
+						"input_position_7[2]"	"-474"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_2.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"-675"
+						"input_position_0[1]"	"3802"
+						"input_position_0[2]"	"423"
+						
+						//position 2
+						"input_position_1[0]"	"-1152"
+						"input_position_1[1]"	"2528"
+						"input_position_1[2]"	"331"
+						
+						//position 3
+						"input_position_2[0]"	"1288"
+						"input_position_2[1]"	"4618"
+						"input_position_2[2]"	"168"
+						
+						//position 4
+						"input_position_3[0]"	"2206"
+						"input_position_3[1]"	"2816"
+						"input_position_3[2]"	"345"
+						
+						//position 5
+						"input_position_4[0]"	"2176"
+						"input_position_4[1]"	"2176"
+						"input_position_4[2]"	"196"
+						
+						//position 6
+						"input_position_5[0]"	"2768"
+						"input_position_5[1]"	"2112"
+						"input_position_5[2]"	"199"
+						
+						//position 7
+						"input_position_6[0]"	"3200"
+						"input_position_6[1]"	"1536"
+						"input_position_6[2]"	"193"
+						
+						//position 8
+						"input_position_7[0]"	"3456"
+						"input_position_7[1]"	"1600"
+						"input_position_7[2]"	"188"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_1a"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_1a.wav"
+}
+"fake_cave.garden_destroyed_1b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_1b.wav"
+}
+"fake_cave.garden_destroyed_1c"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_1c.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"3967"
+						"input_position_0[1]"	"1519"
+						"input_position_0[2]"	"-474"
+						
+						//position 2
+						"input_position_1[0]"	"3456"
+						"input_position_1[1]"	"1600"
+						"input_position_1[2]"	"188"
+						
+						//position 3
+						"input_position_2[0]"	"3200"
+						"input_position_2[1]"	"1536"
+						"input_position_2[2]"	"193"
+						
+						//position 4
+						"input_position_3[0]"	"2768"
+						"input_position_3[1]"	"2112"
+						"input_position_3[2]"	"199"
+						
+						//position 5
+						"input_position_4[0]"	"2176"
+						"input_position_4[1]"	"2176"
+						"input_position_4[2]"	"196"
+						
+						//position 6
+						"input_position_5[0]"	"2206"
+						"input_position_5[1]"	"2816"
+						"input_position_5[2]"	"345"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-675"
+						"input_position_7[1]"	"3802"
+						"input_position_7[2]"	"423"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_2a"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_2a.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"3456"
+						"input_position_0[1]"	"1600"
+						"input_position_0[2]"	"188"
+						
+						//position 2
+						"input_position_1[0]"	"3200"
+						"input_position_1[1]"	"1536"
+						"input_position_1[2]"	"193"
+						
+						//position 3
+						"input_position_2[0]"	"2768"
+						"input_position_2[1]"	"2112"
+						"input_position_2[2]"	"199"
+						
+						//position 4
+						"input_position_3[0]"	"3967"
+						"input_position_3[1]"	"1519"
+						"input_position_3[2]"	"-474"
+						
+						//position 5
+						"input_position_4[0]"	"2176"
+						"input_position_4[1]"	"2176"
+						"input_position_4[2]"	"196"
+						
+						//position 6
+						"input_position_5[0]"	"2206"
+						"input_position_5[1]"	"2816"
+						"input_position_5[2]"	"345"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-675"
+						"input_position_7[1]"	"3802"
+						"input_position_7[2]"	"423"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_2b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_2b.wav"
+}
+"fake_cave.garden_destroyed_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_3.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"3200"
+						"input_position_0[1]"	"1536"
+						"input_position_0[2]"	"193"
+						
+						//position 2
+						"input_position_1[0]"	"3456"
+						"input_position_1[1]"	"1600"
+						"input_position_1[2]"	"188"
+						
+						//position 3
+						"input_position_2[0]"	"2768"
+						"input_position_2[1]"	"2112"
+						"input_position_2[2]"	"199"
+						
+						//position 4
+						"input_position_3[0]"	"2176"
+						"input_position_3[1]"	"2176"
+						"input_position_3[2]"	"196"
+						
+						//position 5
+						"input_position_4[0]"	"3967"
+						"input_position_4[1]"	"1519"
+						"input_position_4[2]"	"-474"
+						
+						//position 6
+						"input_position_5[0]"	"2206"
+						"input_position_5[1]"	"2816"
+						"input_position_5[2]"	"345"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-1152"
+						"input_position_7[1]"	"2528"
+						"input_position_7[2]"	"331"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_4a"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_4a.wav"
+}
+"fake_cave.garden_destroyed_4b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_4b.wav"
+}
+"fake_cave.garden_destroyed_4c"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_4c.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"3200"
+						"input_position_0[1]"	"1536"
+						"input_position_0[2]"	"193"
+						
+						//position 2
+						"input_position_1[0]"	"2768"
+						"input_position_1[1]"	"2112"
+						"input_position_1[2]"	"199"
+						
+						//position 3
+						"input_position_2[0]"	"3456"
+						"input_position_2[1]"	"1600"
+						"input_position_2[2]"	"188"
+						
+						//position 4
+						"input_position_3[0]"	"2176"
+						"input_position_3[1]"	"2176"
+						"input_position_3[2]"	"196"
+						
+						//position 5
+						"input_position_4[0]"	"3967"
+						"input_position_4[1]"	"1519"
+						"input_position_4[2]"	"-474"
+						
+						//position 6
+						"input_position_5[0]"	"2206"
+						"input_position_5[1]"	"2816"
+						"input_position_5[2]"	"345"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-675"
+						"input_position_7[1]"	"3802"
+						"input_position_7[2]"	"423"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_5.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"3200"
+						"input_position_0[1]"	"1536"
+						"input_position_0[2]"	"193"
+						
+						//position 2
+						"input_position_1[0]"	"2768"
+						"input_position_1[1]"	"2112"
+						"input_position_1[2]"	"199"
+						
+						//position 3
+						"input_position_2[0]"	"3456"
+						"input_position_2[1]"	"1600"
+						"input_position_2[2]"	"188"
+						
+						//position 4
+						"input_position_3[0]"	"2176"
+						"input_position_3[1]"	"2176"
+						"input_position_3[2]"	"196"
+						
+						//position 5
+						"input_position_4[0]"	"2206"
+						"input_position_4[1]"	"2816"
+						"input_position_4[2]"	"345"
+						
+						//position 6
+						"input_position_5[0]"	"3967"
+						"input_position_5[1]"	"1519"
+						"input_position_5[2]"	"-474"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-675"
+						"input_position_7[1]"	"3802"
+						"input_position_7[2]"	"423"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_6.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"2206"
+						"input_position_0[1]"	"2816"
+						"input_position_0[2]"	"345"
+						
+						//position 2
+						"input_position_1[0]"	"2176"
+						"input_position_1[1]"	"2176"
+						"input_position_1[2]"	"196"
+						
+						//position 3
+						"input_position_2[0]"	"2768"
+						"input_position_2[1]"	"2112"
+						"input_position_2[2]"	"199"
+						
+						//position 4
+						"input_position_3[0]"	"3200"
+						"input_position_3[1]"	"1536"
+						"input_position_3[2]"	"193"
+						
+						//position 5
+						"input_position_4[0]"	"3456"
+						"input_position_4[1]"	"1600"
+						"input_position_4[2]"	"188"
+						
+						//position 6
+						"input_position_5[0]"	"3967"
+						"input_position_5[1]"	"1519"
+						"input_position_5[2]"	"-474"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-675"
+						"input_position_7[1]"	"3802"
+						"input_position_7[2]"	"423"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_7.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"2176"
+						"input_position_0[1]"	"2176"
+						"input_position_0[2]"	"196"
+						
+						//position 2
+						"input_position_1[0]"	"2768"
+						"input_position_1[1]"	"2112"
+						"input_position_1[2]"	"199"
+						
+						//position 3
+						"input_position_2[0]"	"2206"
+						"input_position_2[1]"	"2816"
+						"input_position_2[2]"	"345"
+						
+						//position 4
+						"input_position_3[0]"	"3200"
+						"input_position_3[1]"	"1536"
+						"input_position_3[2]"	"193"
+						
+						//position 5
+						"input_position_4[0]"	"3456"
+						"input_position_4[1]"	"1600"
+						"input_position_4[2]"	"188"
+						
+						//position 6
+						"input_position_5[0]"	"3967"
+						"input_position_5[1]"	"1519"
+						"input_position_5[2]"	"-474"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-1152"
+						"input_position_7[1]"	"2528"
+						"input_position_7[2]"	"331"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.garden_destroyed_8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/garden_destroyed_8.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"2176"
+						"input_position_0[1]"	"2176"
+						"input_position_0[2]"	"196"
+						
+						//position 2
+						"input_position_1[0]"	"2768"
+						"input_position_1[1]"	"2112"
+						"input_position_1[2]"	"199"
+						
+						//position 3
+						"input_position_2[0]"	"3200"
+						"input_position_2[1]"	"1536"
+						"input_position_2[2]"	"193"
+						
+						//position 4
+						"input_position_3[0]"	"2206"
+						"input_position_3[1]"	"2816"
+						"input_position_3[2]"	"345"
+						
+						//position 5
+						"input_position_4[0]"	"3456"
+						"input_position_4[1]"	"1600"
+						"input_position_4[2]"	"188"
+						
+						//position 6
+						"input_position_5[0]"	"3967"
+						"input_position_5[1]"	"1519"
+						"input_position_5[2]"	"-474"
+						
+						//position 7
+						"input_position_6[0]"	"1288"
+						"input_position_6[1]"	"4618"
+						"input_position_6[2]"	"168"
+						
+						//position 8
+						"input_position_7[0]"	"-1152"
+						"input_position_7[1]"	"2528"
+						"input_position_7[2]"	"331"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.once_upon_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/once_upon_1.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "6"
+					
+						//position 1
+						"input_position_0[0]"	"3200"
+						"input_position_0[1]"	"-1328"
+						"input_position_0[2]"	"1984"
+						
+						//position 2
+						"input_position_1[0]"	"3536"
+						"input_position_1[1]"	"-1488"
+						"input_position_1[2]"	"2048"
+						
+						//position 3
+						"input_position_2[0]"	"3024"
+						"input_position_2[1]"	"-2704"
+						"input_position_2[2]"	"2320"
+						
+						//position 4
+						"input_position_3[0]"	"2887"
+						"input_position_3[1]"	"-3088"
+						"input_position_3[2]"	"2352"
+						
+						//position 5
+						"input_position_4[0]"	"1768"
+						"input_position_4[1]"	"-2160"
+						"input_position_4[2]"	"2576"
+						
+						//position 6
+						"input_position_5[0]"	"3600"
+						"input_position_5[1]"	"-3216"
+						"input_position_5[2]"	"2384"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.once_upon_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/once_upon_2.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "6"
+					
+						//position 1
+						"input_position_0[0]"	"3200"
+						"input_position_0[1]"	"-1328"
+						"input_position_0[2]"	"1984"
+						
+						//position 2
+						"input_position_1[0]"	"3536"
+						"input_position_1[1]"	"-1488"
+						"input_position_1[2]"	"2048"
+						
+						//position 3
+						"input_position_2[0]"	"3024"
+						"input_position_2[1]"	"-2704"
+						"input_position_2[2]"	"2320"
+						
+						//position 4
+						"input_position_3[0]"	"2887"
+						"input_position_3[1]"	"-3088"
+						"input_position_3[2]"	"2352"
+						
+						//position 5
+						"input_position_4[0]"	"1768"
+						"input_position_4[1]"	"-2160"
+						"input_position_4[2]"	"2576"
+						
+						//position 6
+						"input_position_5[0]"	"3600"
+						"input_position_5[1]"	"-3216"
+						"input_position_5[2]"	"2384"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.once_upon_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/once_upon_3.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "6"
+					
+						//position 1
+						"input_position_0[0]"	"3200"
+						"input_position_0[1]"	"-1328"
+						"input_position_0[2]"	"1984"
+						
+						//position 2
+						"input_position_1[0]"	"3536"
+						"input_position_1[1]"	"-1488"
+						"input_position_1[2]"	"2048"
+						
+						//position 3
+						"input_position_2[0]"	"3024"
+						"input_position_2[1]"	"-2704"
+						"input_position_2[2]"	"2320"
+						
+						//position 4
+						"input_position_3[0]"	"2887"
+						"input_position_3[1]"	"-3088"
+						"input_position_3[2]"	"2352"
+						
+						//position 5
+						"input_position_4[0]"	"1768"
+						"input_position_4[1]"	"-2160"
+						"input_position_4[2]"	"2576"
+						
+						//position 6
+						"input_position_5[0]"	"3600"
+						"input_position_5[1]"	"-3216"
+						"input_position_5[2]"	"2384"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.underbounce_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/underbounce_1.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"0"
+						"input_position_0[1]"	"-288"
+						"input_position_0[2]"	"320"
+						
+						//position 2
+						"input_position_1[0]"	"-432"
+						"input_position_1[1]"	"126"
+						"input_position_1[2]"	"391"
+						
+						//position 3
+						"input_position_2[0]"	"-112"
+						"input_position_2[1]"	"-896"
+						"input_position_2[2]"	"299"
+						
+						//position 4
+						"input_position_3[0]"	"536"
+						"input_position_3[1]"	"-896"
+						"input_position_3[2]"	"360"
+						
+						//position 5
+						"input_position_4[0]"	"1408"
+						"input_position_4[1]"	"959"
+						"input_position_4[2]"	"608"
+						
+						//position 6
+						"input_position_5[0]"	"1856"
+						"input_position_5[1]"	"-319"
+						"input_position_5[2]"	"352"
+						
+						//position 7
+						"input_position_6[0]"	"-432"
+						"input_position_6[1]"	"-5506"
+						"input_position_6[2]"	"391"
+						
+						//position 8
+						"input_position_7[0]"	"0"
+						"input_position_7[1]"	"-5920"
+						"input_position_7[2]"	"320"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.underbounce_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/underbounce_2.wav"
+}
+"fake_cave.underbounce_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/underbounce_3.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"-112"
+						"input_position_0[1]"	"-896"
+						"input_position_0[2]"	"299"
+						
+						//position 2
+						"input_position_1[0]"	"0"
+						"input_position_1[1]"	"-288"
+						"input_position_1[2]"	"320"
+						
+						//position 3
+						"input_position_2[0]"	"536"
+						"input_position_2[1]"	"-896"
+						"input_position_2[2]"	"360"
+						
+						//position 4
+						"input_position_3[0]"	"-432"
+						"input_position_3[1]"	"126"
+						"input_position_3[2]"	"391"
+						
+						//position 5
+						"input_position_4[0]"	"1856"
+						"input_position_4[1]"	"-319"
+						"input_position_4[2]"	"352"
+						
+						//position 6
+						"input_position_5[0]"	"1408"
+						"input_position_5[1]"	"959"
+						"input_position_5[2]"	"608"
+						
+						//position 7
+						"input_position_6[0]"	"-432"
+						"input_position_6[1]"	"-5506"
+						"input_position_6[2]"	"391"
+						
+						//position 8
+						"input_position_7[0]"	"0"
+						"input_position_7[1]"	"-5920"
+						"input_position_7[2]"	"320"
+						
+				} 	
+			}
+		}
+}
+"fake_cave.underbounce_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/fake_cave/underbounce_4.wav"
+		"soundentry_version" "2" 
+		"operator_stacks"
+		{
+			"update_stack"
+			{
+				"import_stack" "p2_update_dialog_spatial_cave"
+				"position_array"
+				{
+					"input_entry_count" "8"
+					
+						//position 1
+						"input_position_0[0]"	"1856"
+						"input_position_0[1]"	"-319"
+						"input_position_0[2]"	"352"
+						
+						//position 2
+						"input_position_1[0]"	"1408"
+						"input_position_1[1]"	"959"
+						"input_position_1[2]"	"608"
+						
+						//position 3
+						"input_position_2[0]"	"536"
+						"input_position_2[1]"	"-896"
+						"input_position_2[2]"	"360"
+						
+						//position 4
+						"input_position_3[0]"	"0"
+						"input_position_3[1]"	"-288"
+						"input_position_3[2]"	"320"
+						
+						//position 5
+						"input_position_4[0]"	"-112"
+						"input_position_4[1]"	"-896"
+						"input_position_4[2]"	"299"
+						
+						//position 6
+						"input_position_5[0]"	"-432"
+						"input_position_5[1]"	"126"
+						"input_position_5[2]"	"391"
+						
+						//position 7
+						"input_position_6[0]"	"-432"
+						"input_position_6[1]"	"-5506"
+						"input_position_6[2]"	"391"
+						
+						//position 8
+						"input_position_7[0]"	"1856"
+						"input_position_7[1]"	"-5951"
+						"input_position_7[2]"	"352"
+						
+				} 	
+			}
+		}
+}

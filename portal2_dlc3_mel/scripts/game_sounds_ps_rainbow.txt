@@ -1,0 +1,21 @@
+//soundscript automatically generated in python by Lpfreaky90
+"rainbow.rainbow_core_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/rainbow/rainbow_core_01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}

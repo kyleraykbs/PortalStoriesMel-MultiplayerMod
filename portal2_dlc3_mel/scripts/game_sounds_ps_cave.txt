@@ -1,0 +1,441 @@
+//soundscript automatically generated in python by Lpfreaky90
+"cave.cave_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_04.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_05.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_06.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_07.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_08.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_09.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_10.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_11.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_12.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_13.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_14.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_15"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_15.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_16"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_16.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.cave_17"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/cave_17.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.vitrify_door_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/vitrify_door_01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.vitrify_door_02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/vitrify_door_02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.vitrify_door_03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/vitrify_door_03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.vitrify_door_04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/vitrify_door_04.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"cave.vitrify_door_05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/cave/vitrify_door_05.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}

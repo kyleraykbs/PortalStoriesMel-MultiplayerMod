@@ -1,0 +1,89 @@
+"Extras"
+{
+	"empty"
+	{
+		"title"		"Story Mode:"
+		"subtitle" 	"Portal Stories: Mel"
+		"map" 		"st_a1_tramride"
+		"pic"       	"vgui/chapters/chapter1"
+	}
+	"portalstories_lvl01"
+    {
+        "title"		"#portal2_Chapter1_Title"
+        "subtitle"  	"1952"
+        "map" 	    "st_a1_tramride"
+		"pic"       	"vgui/chapters/chapter1"
+    }
+    "portalstories_lvl02"
+    {
+        "title"     	"#portal2_Chapter2_Title"
+        "subtitle"  	"#PS_CHAPTER2"
+        "map"	    	"st_a2_garden_de"
+		"pic"       	"vgui/chapters/chapter2"
+    }
+    "portalstories_lvl03"
+    {
+        "title"     	"#portal2_Chapter3_Title"
+        "subtitle"  	"#PS_CHAPTER3"
+        "map"       	"st_a3_junkyard"
+		"pic"       	"vgui/chapters/chapter6"
+    }
+    "portalstories_lvl04"
+    {
+        "title"     	"#portal2_Chapter4_Title"
+        "subtitle"  	"#PS_CHAPTER4"
+        "map"       	"st_a4_overgrown"
+		"pic"      	"vgui/chapters/chapter8"
+    }
+    "portalstories_lvl05"
+    {
+        "title"    	 	"portal2_Chapter5_Title"
+        "subtitle" 	"#PS_CHAPTER5"
+        "map"       	"st_a4_core_access"
+		"pic"       	"vgui/chapters/chapter10"
+    }
+	"empty"
+	{
+		"title"			"Advanced Mode:"
+		"subtitle" 	"The original mod, with harder puzzles"
+		"map" 	"sp_a1_tramride"
+		"pic"       	"vgui/chapters/chapter1"
+	}
+    "portalstories_lvl01"
+    {
+        "title"    	 	"#portal2_Chapter1_Title"
+        "subtitle"  	"1952"
+        "map" 	    "sp_a1_tramride"
+		"pic"       	"vgui/chapters/chapter1"
+    }
+    "portalstories_lvl02"
+    {
+        "title"     	"#portal2_Chapter2_Title"
+        "subtitle"  	"#PS_CHAPTER2"
+        "map"	    	"sp_a2_garden_de"
+		"pic"       	"vgui/chapters/chapter2"
+    }
+    "portalstories_lvl03"
+	{
+		"title"     	"#portal2_Chapter3_Title"
+		"subtitle"  	"#PS_CHAPTER3"
+		"map"       	"sp_a3_junkyard"
+		"pic"       	"vgui/chapters/chapter6"
+	}
+	"portalstories_lvl04"
+	{
+		"title"     	"#portal2_Chapter4_Title"
+		"subtitle"  	"#PS_CHAPTER4"
+		"map"       	"sp_a4_overgrown"
+		"pic"      	"vgui/chapters/chapter8"
+    }
+    "portalstories_lvl05"
+    {
+        "title"    	 	"portal2_Chapter5_Title"
+        "subtitle" 	"#PS_CHAPTER5"
+        "map"       	"sp_a4_core_access"
+		"pic"       	"vgui/chapters/chapter10"
+    }
+
+
+}

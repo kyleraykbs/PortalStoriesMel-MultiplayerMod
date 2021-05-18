@@ -1,0 +1,457 @@
+//-------------------------------------------------------------------------------
+// This file specifies which icons are going to show up on the lightboard at the 
+// beginning of the level if you need to add a new icon, you must add the actual 
+// icon to the end of the texture sheet AND add it to g_pszLightboardIcons in 
+// vgui_mp_lobby_screen
+//-------------------------------------------------------------------------------
+
+//These are the the startup sequences that can be used
+//Add more in lightboard_startup_sequences.txt
+//If none is specified then it will fallback to "default_flicker"
+//"normal_flicker"
+//"dirty_flicker"
+//"broken_flicker"
+
+//These are the icons that can be used
+//"cube_drop" "1"
+//"cube_button" "1"
+//"cube_bonk" "1"
+//"drink_water" "1"
+//"goop" "1"
+//"crushers" "1"
+//"laser_cube" "1"
+//"laser_power" "1"
+//"turret" "1"
+//"turret_burn" "1"
+//"portal_fling" "1"
+//"portal_fling_2" "1"
+//"plate_fling" "1"
+//"bridges" "1"
+//"bridge_block" "1"
+//"grinders" "1"
+//"tbeams" "1"
+//"tbeam_polarity" "1"
+//"paint_bounce" "1"
+//"paint_speed" "1"
+//"handoff" "1"
+//"button_stand" "1"
+//"danger_field" "1"
+
+//Dirt type
+//"dirt" 0, 1 or 2
+//0 will have the least dirt and 2 will have the most
+//If none is specified then there won't be a dirt overlay on the panel
+
+
+"sp_lightboard_icons"
+{
+	"Maps"
+	{
+	//PORTAL STORIES
+		
+		"sp_a3_concepts"
+		{
+			//Map data
+			"level_number" "1"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"tbeams" "1"
+				"paint_speed" "1"
+				"goop" "1"
+				"bridge_block" "0"
+				"portal_fling" "0"
+				"portal_fling_2" "0"
+				"crushers" "0"
+			}
+		}	
+
+		"sp_a3_paint_fling"
+		{
+			//Map data
+			"level_number" "2"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"paint_bounce" "1"
+				"paint_speed" "1"
+				"goop" "1"
+				"bridge_block" "0"
+				"portal_fling" "0"
+				"portal_fling_2" "0"
+				"crushers" "0"
+			}
+		}
+
+		"sp_a3_faith_plate"
+		{
+			//Map data
+			"level_number" "3"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"plate_fling" "1"
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"paint_bounce" "0"
+				"tbeam_polarity" "1"
+				"goop" "1"
+				"bridges" "1"
+				"danger_field" "1"
+				"tbeams" "1"
+			}
+		}
+
+		"sp_a3_transition"
+		{
+			//Map data
+			"level_number" "4"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"plate_fling" "1"
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"paint_bounce" "1"
+				"paint_speed" "1"
+				"goop" "1"
+				"bridges" "1"
+				"portal_fling" "0"
+				"portal_fling_2" "0"
+			}
+		}	 	 	
+
+		"sp_a4_two_of_a_kind"
+		{
+			//Map data
+			"level_number" "3"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_button" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "0"
+				"turret" "0"
+				"bridges" "1"
+				"tbeams" "1"
+				"paint_bounce" "1"
+				"danger_field" "0"
+			}
+		}
+
+		"sp_a4_destroyed"
+		{
+			//Map data
+			"level_number" "4"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "1"
+				"turret" "1"
+				"paint_bounce" "1"
+				"tbeams" "1"
+				"laser_power" "1"
+				"danger_field" "1"
+			}
+		}
+		"sp_a4_tb_over_goo"
+		{
+			//Map data
+			"level_number" "2"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_button" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "0"
+				"turret" "0"
+				"bridges" "0"
+				"tbeams" "1"
+				"tbeam_polarity" "1"
+				"danger_field" "0"
+			}
+		}
+		"sp_a4_overgrown"
+		{
+			//Map data
+			"level_number" "1"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_button" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "1"
+				"paint_speed" "0"
+				"paint_bounce" "1"
+				"bridges" "1"
+				"tbeams" "1"
+				"danger_field" "0"
+			}	
+		}
+	"sp_a4_factory"
+		{
+			//Map data
+			"level_number" "5"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"laser_power" "1"
+				"cube_button" "1"
+				"drink_water" "0"
+				"goop" "0"
+				"laser_cube" "1"
+				"turret" "0"
+				"bridges" "0"
+				"tbeams" "1"
+				"paint_bounce" "0"
+				"crushers" "0"
+			}
+		}
+		
+		/////////////////////
+		//STORY MODE//
+		///////////////////
+		
+		"st_a3_concepts"
+		{
+			//Map data
+			"level_number" "1"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"tbeams" "1"
+				"paint_speed" "1"
+				"goop" "1"
+				"bridge_block" "0"
+				"portal_fling" "0"
+				"portal_fling_2" "0"
+				"crushers" "0"
+			}
+		}	
+
+		"st_a3_paint_fling"
+		{
+			//Map data
+			"level_number" "2"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"paint_bounce" "1"
+				"paint_speed" "1"
+				"goop" "1"
+				"bridge_block" "0"
+				"portal_fling" "0"
+				"portal_fling_2" "0"
+				"crushers" "0"
+			}
+		}
+
+		"st_a3_faith_plate"
+		{
+			//Map data
+			"level_number" "3"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"plate_fling" "1"
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"paint_bounce" "0"
+				"tbeam_polarity" "1"
+				"goop" "1"
+				"bridges" "1"
+				"danger_field" "1"
+				"tbeams" "1"
+			}
+		}
+
+		"st_a3_transition"
+		{
+			//Map data
+			"level_number" "4"
+			"total_levels" "14"
+			"startup" "normal_flicker"
+
+			"icons"
+			{
+				"plate_fling" "1"
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"paint_bounce" "1"
+				"paint_speed" "1"
+				"goop" "1"
+				"bridges" "1"
+				"portal_fling" "0"
+				"portal_fling_2" "0"
+			}
+		}	 	 	
+
+		"st_a4_two_of_a_kind"
+		{
+			//Map data
+			"level_number" "3"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_button" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "0"
+				"turret" "0"
+				"bridges" "1"
+				"tbeams" "1"
+				"paint_bounce" "1"
+				"danger_field" "0"
+			}
+		}
+
+		"st_a4_destroyed"
+		{
+			//Map data
+			"level_number" "4"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_bonk" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "1"
+				"turret" "1"
+				"paint_bounce" "1"
+				"tbeams" "1"
+				"laser_power" "1"
+				"danger_field" "1"
+			}
+		}
+		"st_a4_tb_over_goo"
+		{
+			//Map data
+			"level_number" "2"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_button" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "0"
+				"turret" "0"
+				"bridges" "0"
+				"tbeams" "1"
+				"tbeam_polarity" "1"
+				"danger_field" "0"
+			}
+		}
+		"st_a4_overgrown"
+		{
+			//Map data
+			"level_number" "1"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"cube_drop" "1"
+				"cube_button" "1"
+				"drink_water" "1"
+				"goop" "1"
+				"laser_cube" "1"
+				"paint_speed" "0"
+				"paint_bounce" "1"
+				"bridges" "1"
+				"tbeams" "1"
+				"danger_field" "0"
+			}	
+		}
+	"st_a4_factory"
+		{
+			//Map data
+			"level_number" "5"
+			"total_levels" "12"
+			"startup" "dirty_flicker"
+			"dirt" "2"
+
+			"icons"
+			{
+				"laser_power" "1"
+				"cube_button" "1"
+				"drink_water" "0"
+				"goop" "0"
+				"laser_cube" "1"
+				"turret" "0"
+				"bridges" "0"
+				"tbeams" "1"
+				"paint_bounce" "0"
+				"crushers" "0"
+			}
+		}	
+		
+	}
+}

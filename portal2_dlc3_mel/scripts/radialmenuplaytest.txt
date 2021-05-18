@@ -1,0 +1,32 @@
+"RadialMenu"
+{
+	//--------------------------------------------------------------
+	"Default"
+	{
+		"North"
+		{
+			"command"	"love_it"
+			"icon"		"hud/commands/love_it"
+		}
+		"Center"
+		{
+			"command"	"done"
+			"icon"		"hud/commands/cancel"
+		}
+		"South"
+		{
+			"command"	"stuck"
+			"icon"		"hud/commands/stuck"
+		}
+		"West"
+		{
+			"command"	"hate_it"
+			"icon"		"hud/commands/hate_it"
+		}
+		"East"
+		{
+			"command"	"confused"
+			"icon"		"hud/commands/confused"
+		}	
+	}
+}

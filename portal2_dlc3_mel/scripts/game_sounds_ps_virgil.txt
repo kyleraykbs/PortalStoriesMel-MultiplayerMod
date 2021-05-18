@@ -1,0 +1,5181 @@
+//soundscript automatically generated in python by Lpfreaky90
+"virgil.virgil_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_04.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_05.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_06.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_07.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_08.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_09.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_10.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_100"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_100.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_101"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_101.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_102"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_102.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_103"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_103.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_104"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_104.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_105"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_105.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_106"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_106.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_107"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_107.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_108"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_108.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_109"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_109.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_11.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_110"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_110.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_111"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_111.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_112"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_112.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_113"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_113.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_114"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_114.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_115"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_115.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_116"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_116.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_117"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_117.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_118"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_118.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_119"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_119.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_12.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_120"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_120.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_121"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_121.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_122"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_122.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_123"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_123.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_124"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_124.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_125"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_125.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_126"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_126.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_127"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_127.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_128"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_128.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_129"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_129.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_13.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_130"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_130.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_131"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_131.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_132"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_132.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_133"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_133.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_134"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_134.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_135"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_135.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_136"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_136.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_137"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_137.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_138"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_138.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_139"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_139.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_14.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_140"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_140.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_141"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_141.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_142"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_142.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_143"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_143.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_144"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_144.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_145"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_145.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_146"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_146.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_147"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_147.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_148"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_148.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_149"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_149.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_15"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_15.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_150"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_150.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_151"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_151.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_152"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_152.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_153"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_153.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_154"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_154.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_155"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_155.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_156"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_156.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_157"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_157.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_158"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_158.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_159"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_159.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_16"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_16.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_160"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_160.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_161"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_161.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_162"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_162.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_163"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_163.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_164"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_164.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_165"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_165.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_166"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_166.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_167"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_167.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_168"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_168.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_169"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_169.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_17"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_17.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_170"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_170.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_171"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_171.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_172"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_172.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_173"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_173.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_174"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_174.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_175"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_175.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_176"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_176.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_177"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_177.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_178"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_178.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_179"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_179.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_18"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_18.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_180"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_180.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_181"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_181.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_182"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_182.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_183"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_183.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_184"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_184.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_185"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_185.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_186"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_186.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_187"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_187.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_188"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_188.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_189"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_189.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_19"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_19.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_190"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_190.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_191"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_191.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_192"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_192.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_193"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_193.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_194"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_194.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_195"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_195.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_196"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_196.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_197"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_197.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_198"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_198.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_199"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_199.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_20"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_20.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_200"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_200.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_201"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_201.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_202"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_202.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_203"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_203.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_204"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_204.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_205"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_205.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_206"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_206.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_207"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_207.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_208"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_208.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_209"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_209.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_21"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_21.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_210"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_210.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_211"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_211.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_212"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_212.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_213"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_213.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_214"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_214.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_215"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_215.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_216"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_216.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_217"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_217.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_218"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_218.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_219"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_219.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_22"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_22.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_220"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_220.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_221"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_221.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_222"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_222.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_223"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_223.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_224"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_224.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_225"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_225.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_226"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_226.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_227"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_227.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_228"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_228.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_229"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_229.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_23"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_23.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_230"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_230.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_231"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_231.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_232"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_232.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_233"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_233.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_234"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_234.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_235"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_235.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_236"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_236.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_237"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_237.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_238"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_238.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_239"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_239.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_24"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_24.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_240"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_240.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_241"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_241.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_242"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_242.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_243"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_243.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_244"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_244.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_245"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_245.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_246"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_246.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_247"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_247.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_248"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_248.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_249"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_249.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_25"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_25.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_250"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_250.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_251"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_251.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_252"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_252.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_253"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_253.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_254"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_254.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_255"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_255.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_256"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_256.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_257"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_257.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_258"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_258.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_259"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_259.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_26"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_26.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_27"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_27.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_28"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_28.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_29"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_29.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_30"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_30.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_31"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_31.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_32"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_32.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_33"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_33.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_34"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_34.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_35"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_35.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_36"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_36.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_37"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_37.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_38"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_38.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_39"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_39.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_40"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_40.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_41"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_41.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_42"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_42.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_43"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_43.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_44"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_44.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_45"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_45.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_46"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_46.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_47"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_47.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_48"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_48.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_49"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_49.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_50"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_50.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_51"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_51.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_52"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_52.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_53"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_53.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_54"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_54.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_55"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_55.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_56"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_56.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_57"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_57.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_58"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_58.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_59"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_59.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_60"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_60.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_61"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_61.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_62"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_62.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_63"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_63.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_64"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_64.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_65"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_65.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_66"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_66.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_67"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_67.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_68"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_68.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_69"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_69.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_70"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_70.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_71"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_71.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_72"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_72.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_73"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_73.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_74"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_74.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_75"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_75.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_76"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_76.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_77"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_77.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_78"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_78.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_79"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_79.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_80"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_80.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_81"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_81.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_82"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_82.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_83"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_83.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_84"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_84.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_85"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_85.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_86"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_86.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_87"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_87.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_88"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_88.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_89"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_89.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_90"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_90.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_91"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_91.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_92"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_92.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_93"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_93.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_94"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_94.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_95"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_95.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_96"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_96.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_97"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_97.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_98"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_98.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}
+"virgil.virgil_99"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_110dB"
+	"wave"		"vo/virgil/virgil_99.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "announcerVO"
+			}
+		}
+	}
+}

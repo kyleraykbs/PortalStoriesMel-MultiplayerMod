@@ -1,0 +1,1547 @@
+
+"cavejohnson.DLC2_multiverse_transition"
+{
+	"channel"		"CHAN_VOICE"
+	"soundlevel"		"SNDLVL_NONE"
+	"volume"		"0.9"
+	"pitch"		"100"
+	"wave"		"ui\Portal2_DLC_transport.wav"
+}
+
+
+"P2Editor.RandomBlips"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.55"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{
+		// "wave"		"ui/p2_editor_blips_01.wav"
+		"wave"		"ui/p2_editor_blips_02.wav"
+		"wave"		"ui/p2_editor_blips_03.wav"
+		"wave"		"ui/p2_editor_blips_04.wav"
+		"wave"		"ui/p2_editor_blips_05.wav"
+		"wave"		"ui/p2_editor_blips_06.wav"
+		"wave"		"ui/p2_editor_blips_07.wav"
+		"wave"		"ui/p2_editor_blips_08.wav"
+		"wave"		"ui/p2_editor_blips_09.wav"
+		"wave"		"ui/p2_editor_blips_10.wav"
+		"wave"		"ui/p2_editor_blips_11.wav"
+		"wave"		"ui/p2_editor_blips_12.wav"
+		"wave"		"ui/p2_editor_blips_13.wav"
+		"wave"		"ui/p2_editor_blips_14.wav"
+		"wave"		"ui/p2_editor_blips_15.wav"
+		"wave"		"ui/p2_editor_blips_16.wav"
+		"wave"		"ui/p2_editor_blips_17.wav"
+		"wave"		"ui/p2_editor_blips_18.wav"
+		"wave"		"ui/p2_editor_blips_19.wav"
+		"wave"		"ui/p2_editor_blips_10.wav"
+		"wave"		"ui/p2_editor_blips_21.wav"
+		"wave"		"ui/p2_editor_blips_22.wav"
+		"wave"		"ui/p2_editor_blips_23.wav"
+		"wave"		"ui/p2_editor_blips_24.wav"
+		"wave"		"ui/p2_editor_blips_25.wav"
+		"wave"		"ui/p2_editor_blips_26.wav"
+		"wave"		"ui/p2_editor_blips_27.wav"
+		"wave"		"ui/p2_editor_blips_28.wav"
+		"wave"		"ui/p2_editor_blips_29.wav"
+		"wave"		"ui/p2_editor_blips_31.wav"
+		"wave"		"ui/p2_editor_blips_32.wav"
+		"wave"		"ui/p2_editor_blips_33.wav"
+		"wave"		"ui/p2_editor_blips_34.wav"
+		"wave"		"ui/p2_editor_blips_35.wav"
+		"wave"		"ui/p2_editor_blips_36.wav"
+		"wave"		"ui/p2_editor_blips_37.wav"
+		"wave"		"ui/p2_editor_blips_39.wav"
+		"wave"		"ui/p2_editor_blips_40.wav"
+		"wave"		"ui/p2_editor_blips_41.wav"
+		"wave"		"ui/p2_editor_blips_42.wav"
+		"wave"		"ui/p2_editor_blips_43.wav"
+	}
+	
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{			
+			"limit_sound"
+			{
+				"operator" "sys_stop_entries"
+				"input_max_entries" "4.000000" //A sound will not stop itself from playing.
+				"match_entity" "false"	
+				"match_substring" "true"
+				"match_entry" "P2Editor.RandomBlips"		
+			}
+		}
+		
+		"update_stack"
+		{	
+			"import_stack" "p2_update_default" 
+
+			"volume_fade_in"
+			{
+				"input" "@elapsed_time.output_sound_elapsed"
+				"input_max" "0.05"
+				"input_map_min" "0.1"
+			}
+			
+            "mixer"
+            {
+				"mixgroup" "UI"
+			}   
+		}
+	}
+}
+
+"P2Editor.PlaceCube"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "P2_null_player_start" //Play an entry other than the called one!
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+
+			"block_start"
+			{	
+				"input_execute" "1.0"
+				"operator" "sys_output"
+				"input_float" "1"
+				"output" "block_start"
+			}	
+		}	
+	}
+}
+
+"P2Editor.ExpandCube"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_cube_explo_01.wav"
+}
+
+"P2Editor.CollapseCube"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_cube_collapse_01.wav"
+}
+
+"P2Editor.RemoveCube"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+		}
+	}
+}
+
+"P2Editor.PlaceTurret"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "P2_null_player_start" //Play an entry other than the called one!
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+
+			"block_start"
+			{	
+				"input_execute" "1.0"
+				"operator" "sys_output"
+				"input_float" "1"
+				"output" "block_start"
+			}	
+		}	
+	}
+}
+
+"P2Editor.ExpandTurret"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{
+		"wave"		"npc/turret_floor/turret_deploy_1.wav"
+		"wave"		"npc/turret_floor/turret_deploy_2.wav"
+		"wave"		"npc/turret_floor/turret_deploy_4.wav"
+		"wave"		"npc/turret_floor/turret_deploy_5.wav"
+		"wave"		"npc/turret_floor/turret_deploy_6.wav"
+		"wave"		"npc/turret_floor/turret_search_3.wav"
+	}
+
+}
+
+"P2Editor.CollapseTurret"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+//	"wave"			"ui/p2_editor_turret_collapse_01.wav"
+	"rndwave"
+	{
+		"wave"		"npc/turret_floor/turret_retire_1.wav"
+		"wave"		"npc/turret_floor/turret_retire_2.wav"
+		"wave"		"npc/turret_floor/turret_retire_3.wav"
+		"wave"		"npc/turret_floor/turret_retire_4.wav"
+		"wave"		"npc/turret_floor/turret_retire_5.wav"
+		"wave"		"npc/turret_floor/turret_retire_6.wav"
+	}
+
+}
+
+"P2Editor.RemoveTurret"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+		}
+	}
+}
+
+"P2Editor.PlaceButton"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "P2_null_player_start" //Play an entry other than the called one!
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+
+			"block_start"
+			{	
+				"input_execute" "1.0"
+				"operator" "sys_output"
+				"input_float" "1"
+				"output" "block_start"
+			}	
+		}	
+	}
+}
+
+"P2Editor.ExpandButton"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_buttons_explo_01.wav"
+}
+
+"P2Editor.CollapseButton"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_buttons_collapse_01.wav"
+}
+
+"P2Editor.RemoveButton"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+		}
+	}
+}
+
+"P2Editor.PlacePaint"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "P2_null_player_start" //Play an entry other than the called one!
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+
+			"block_start"
+			{	
+				"input_execute" "1.0"
+				"operator" "sys_output"
+				"input_float" "1"
+				"output" "block_start"
+			}	
+		}	
+	}
+}
+
+"P2Editor.ExpandPaint"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_paint_explo_01.wav"
+}
+
+"P2Editor.CollapsePaint"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_paint_collapse_01.wav"
+}
+
+"P2Editor.RemovePaint"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+		}
+	}
+}
+
+"P2Editor.PlaceOther"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "P2_null_player_start" //Play an entry other than the called one!
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+
+			"block_start"
+			{	
+				"input_execute" "1.0"
+				"operator" "sys_output"
+				"input_float" "1"
+				"output" "block_start"
+			}	
+		}	
+	}
+}
+
+"P2Editor.ExpandOther"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{
+		"wave"			"ui/p2_editor_other_explo_01.wav"
+		"wave"			"ui/p2_editor_other_explo_02.wav"
+	}
+}
+
+"P2Editor.CollapseOther"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{
+		"wave"			"ui/p2_editor_other_collapse_01.wav"
+		"wave"			"ui/p2_editor_other_collapse_02.wav"
+	}
+}
+
+"P2Editor.RemoveOther"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+		}
+	}
+}
+
+"P2Editor.ConnectItems"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_konnektshun_made_01.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+		}
+	}
+}
+
+"P2Editor.DisconnectItems"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_konnektshun_destroyed_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.RandomBlips" //Replace with the sound you want to play.
+			}
+		}
+	}
+}
+
+"P2Editor.OnEditorStartup"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "P2_null_player_start" //Play an entry other than the called one!
+	
+			"play_entry"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipLoop" //Replace with the sound you want to play.
+			}
+
+			"block_start"
+			{	
+				"input_execute" "1.0"
+				"operator" "sys_output"
+				"input_float" "1"
+				"output" "block_start"
+			}	
+		}	
+	}
+}
+
+"P2Editor.OnEditorExit"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.0"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/ui_select_02.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "P2_null_player_start" //Play an entry other than the called one!
+	
+			"stop_entry"
+			{
+				"operator" "sys_stop_entries"
+				"execute_once" "true"
+				"input_execute"	"1.0"
+				"input_start" "1"
+				"match_entry" "P2Editor.BlipLoop"
+				"input_max_entries" "0.000000"
+				"match_entity" "false"	
+				"match_substring" "false"
+			}
+		}	
+	}
+}
+
+"P2Editor.ExtrudeGeo"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.25"
+	"pitch"			"95, 105"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_extrude_05.wav"	
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{			
+			"limit_sound"
+			{
+				"operator" "sys_stop_entries"
+				"input_max_entries" "1.000000" //A sound will not stop itself from playing.
+				"match_entity" "false"	
+				"match_substring" "true"
+				"match_entry" "P2Editor.ExtrudeGeo"		
+			}
+		}
+	}
+}
+
+"P2Editor.CarveGeo"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.2"
+	"pitch"			"95, 105"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_carve_05.wav"	
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{			
+			"limit_sound"
+			{
+				"operator" "sys_stop_entries"
+				"input_max_entries" "1.000000" //A sound will not stop itself from playing.
+				"match_entity" "false"	
+				"match_substring" "true"
+				"match_entry" "P2Editor.CarveGeo"		
+			}
+		}
+	}
+}
+
+"P2Editor.MenuIncrement"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_inc.wav"
+}
+
+"P2Editor.MenuDecrement"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_dec.wav"
+}
+
+"P2Editor.MenuFocus"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.7"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_rollover.wav"
+}
+
+"P2Editor.MenuSelect"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_click.wav"
+}
+
+"P2Editor.Config5WayChanged"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.4"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_reconfig_00.wav"
+}
+
+
+"P2Editor.Config4WayChanged"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.4"
+	"pitch"			"120"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_reconfig_00.wav"
+}
+
+
+"P2Editor.Config8WayChanged"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.4"
+	"pitch"			"150"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_reconfig_00.wav"
+}
+
+
+"P2Editor.Config36WayChanged"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_itemreconfig.wav"
+}
+
+
+"P2Editor.ConfigPseudoHandleChanged"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.4"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_reconfig_00.wav"
+}
+
+
+"P2Editor.Error"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_error.wav"
+}
+
+
+"P2Editor.Correction"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_correction_01.wav"
+}
+
+"P2Editor.Gel_Placement"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_gel_placement_02.wav"
+}
+
+"P2Editor.reconfig"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{	"wave"			"ui/p2_editor_reconfig_01.wav"
+		"wave"			"ui/p2_editor_reconfig_02.wav"
+		"wave"			"ui/p2_editor_reconfig_03.wav"
+	}
+}
+
+
+"P2Editor.tilepick"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.2"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{	"wave"			"ui/p2_editor_tile_pick_01.wav"
+		"wave"			"ui/p2_editor_tile_pick_02.wav"
+	}
+}
+
+
+"P2Editor.TileDoubleClick"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{	"wave"			"ui/p2_editor_tile_pick_01.wav"
+		"wave"			"ui/p2_editor_tile_pick_02.wav"
+	}
+}
+
+
+"P2Editor.DropperEnabled"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.45"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_extrude.wav"
+}
+
+
+"P2Editor.DropperDisabled"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.4"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/p2_editor_carve.wav"
+}
+
+
+"P2Editor.RaisePanel"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.4"
+	"pitch"			"95, 105"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{
+		"wave"			"ui/p2_editor_panel_raise_01.wav"	
+		"wave"			"ui/p2_editor_panel_raise_02.wav"	
+		"wave"			"ui/p2_editor_panel_raise_03.wav"	
+	}
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{			
+			"limit_sound"
+			{
+				"operator" "sys_stop_entries"
+				"input_max_entries" "1.000000" //A sound will not stop itself from playing.
+				"match_entity" "false"	
+				"match_substring" "true"
+				"match_entry" "P2Editor.RaisePanel"		
+			}
+		}
+	}
+}
+
+"P2Editor.LowerPanel"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.4"
+	"pitch"			"95, 105"
+	"soundlevel"	"SNDLVL_NONE"
+	"rndwave"
+	{
+		"wave"			"ui/p2_editor_panel_lower_01.wav"	
+		"wave"			"ui/p2_editor_panel_lower_02.wav"	
+		"wave"			"ui/p2_editor_panel_lower_03.wav"	
+	}
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{			
+			"limit_sound"
+			{
+				"operator" "sys_stop_entries"
+				"input_max_entries" "1.000000" //A sound will not stop itself from playing.
+				"match_entity" "false"	
+				"match_substring" "true"
+				"match_entry" "P2Editor.LowerPanel"		
+			}
+		}
+	}
+}
+
+"P2Editor.BlipPlayer00"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer00"
+				"stop_oldest"	"false"
+			}
+			
+			"percentage_to_play"
+			{
+				"input2" "0.60" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipPlayer01"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer01"
+				"stop_oldest"	"false"
+			}
+		
+			"percentage_to_play"
+			{
+				"input2" "0.33" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipPlayer02"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer02"
+				"stop_oldest"	"false"
+			}
+		
+			"percentage_to_play"
+			{
+				"input2" "0.38" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipPlayer03"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer03"
+				"stop_oldest"	"false"
+			}
+		
+			"percentage_to_play"
+			{
+				"input2" "0.38" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipPlayer04"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer04"
+				"stop_oldest"	"false"
+			}
+		
+			"percentage_to_play"
+			{
+				"input2" "0.45" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipPlayer05"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer05"
+				"stop_oldest"	"false"
+			}
+		
+			"percentage_to_play"
+			{
+				"input2" "0.42" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipPlayer06"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer06"
+				"stop_oldest"	"false"
+			}
+		
+			"percentage_to_play"
+			{
+				"input2" "0.33" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipPlayer07"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"pitch"			"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"ui/dummy.wav"
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{
+		"start_stack"
+		{	
+			"import_stack" "p2_editor_player_start"
+			
+			"limit_blips"
+			{
+				"match_entry" 	"P2Editor.BlipPlayer07"
+				"stop_oldest"	"false"
+			}
+		
+			"percentage_to_play"
+			{
+				"input2" "0.30" //TEST VARIABLE FOR NOW
+			}
+		}	
+	}
+}
+
+"P2Editor.BlipLoop"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_90dB"
+	"volume"		".9"
+	"pitch"			"100"
+	"rndwave"
+	{
+		"wave"		"ui/p2_editor_drone_lp_07.wav"
+	}
+	
+	"soundentry_version" "2"
+
+	"operator_stacks"
+	{		
+		"update_stack"
+		{	
+			"import_stack" "update_music_stereo" 
+
+			"volume_fade_in"
+			{
+				"input_max" "3.0"
+			}
+			
+			///////////////////////////////////
+			//BEGIN OPERATOR FOO //////////////
+			///////////////////////////////////
+			
+			"mod_time_output"
+			{
+				"operator" "math_float"
+				"apply" "mod"	
+				"input1" "@elapsed_time.output_sound_elapsed"
+				"input2" "@elapsed_time.output_sound_duration"
+			}		
+			
+			"volume_lfo_time_scale"
+			{
+				"input2" "0.4"	
+			}
+			
+			"volume_lfo_scale"
+			{
+				"input2" "0.20"
+			}
+			
+			"remap_entry_time"
+			{
+				"operator" "math_remap_float"
+				"input" "@mod_time_output.output"
+				"input_min" "0.0"
+				"input_max" "@elapsed_time.output_sound_duration"
+				"input_map_min" "0.0"
+				"input_map_max" "1.0"
+				"default_to_max" "false"	
+			}
+			
+			"get_eight_subdivisions"
+			{
+				"operator" "math_float"
+				"apply" "mult"	
+				"input1" "@remap_entry_time.output"
+				"input2" "8.0"	
+			}
+			
+			"get_sixty_four_subdivisions"
+			{
+				"operator" "math_float"
+				"apply" "mult"	
+				"input1" "@remap_entry_time.output"
+				"input2" "64.0"	
+			}
+			
+			"round_to_8"
+			{
+				"operator" "math_func1"
+				"function" "floor"
+				"input1" "@get_eight_subdivisions.output"
+			}
+			
+			"round_to_64"
+			{
+				"operator" "math_func1"
+				"function" "floor"
+				"input1" "@get_sixty_four_subdivisions.output"
+			}
+			
+			"mod_subdivisions"
+			{
+				"operator" "math_float"
+				"apply" "mod"	
+				"input1" "@round_to_64.output"
+				"input2" "8.0"
+			}
+			
+			///// SEGMENT 0 //////////////
+			"play_entry_segment_00_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "0.0"
+			}
+			
+			"block_entry_segment_00_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "0.01"
+			}
+			
+			"play_entry_segment_00_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_00_compare.output"
+				"input2" "@play_entry_segment_00_compare.output"
+			}
+			
+			"play_entry_segment_00"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_00_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer00"
+			}			
+			
+			/// SEGMENT 1 //////////////
+			"play_entry_segment_01_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "1.0"
+			}
+			
+			"block_entry_segment_01_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "1.005"
+			}
+			
+			"play_entry_segment_01_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_01_compare.output"
+				"input2" "@play_entry_segment_01_compare.output"
+			}
+			
+			"play_entry_segment_01"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_01_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer01"
+			}
+			
+			/// SEGMENT 2 //////////////
+			"play_entry_segment_02_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "2.0"
+			}
+			
+			"block_entry_segment_02_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "2.005"
+			}
+			
+			"play_entry_segment_02_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_02_compare.output"
+				"input2" "@play_entry_segment_02_compare.output"
+			}
+			
+			"play_entry_segment_02"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_02_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer02"
+			}
+			
+			/// SEGMENT 3 //////////////
+			"play_entry_segment_03_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "3.0"
+			}
+			
+			"block_entry_segment_03_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "3.005"
+			}
+			
+			"play_entry_segment_03_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_03_compare.output"
+				"input2" "@play_entry_segment_03_compare.output"
+			}
+			
+			"play_entry_segment_03"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_03_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer03"
+			}
+			
+			/// SEGMENT 4 //////////////
+			"play_entry_segment_04_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "4.0"
+			}
+			
+			"block_entry_segment_04_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "4.005"
+			}
+			
+			"play_entry_segment_04_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_04_compare.output"
+				"input2" "@play_entry_segment_04_compare.output"
+			}
+			
+			"play_entry_segment_04"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_04_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer04"
+			}
+			
+			/// SEGMENT 5 //////////////
+			"play_entry_segment_05_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "5.0"
+			}
+			
+			"block_entry_segment_05_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "5.005"
+			}
+			
+			"play_entry_segment_05_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_05_compare.output"
+				"input2" "@play_entry_segment_05_compare.output"
+			}
+			
+			"play_entry_segment_05"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_05_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer05"
+			}
+			
+			/// SEGMENT 6 //////////////
+			"play_entry_segment_06_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "6.0"
+			}
+			
+			"block_entry_segment_06_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "6.005"
+			}
+			
+			"play_entry_segment_06_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_06_compare.output"
+				"input2" "@play_entry_segment_06_compare.output"
+			}
+			
+			"play_entry_segment_06"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_06_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer06"
+			}
+			
+			/// SEGMENT 7 //////////////
+			"play_entry_segment_07_compare"
+			{
+				"operator" "math_float"
+				"apply" "equals"	
+				"input1" "@round_to_8.output"
+				"input2" "7.0"
+			}
+			
+			"block_entry_segment_07_compare"
+			{
+				"operator" "math_float"
+				"apply" "less_than"	
+				"input1" "@get_eight_subdivisions.output"
+				"input2" "7.005"
+			}
+			
+			"play_entry_segment_07_min"
+			{
+				"operator" "math_float"
+				"apply" "min"	
+				"input1" "@block_entry_segment_07_compare.output"
+				"input2" "@play_entry_segment_07_compare.output"
+			}
+			
+			"play_entry_segment_07"
+			{
+				"operator" "sys_start_entry"
+				"execute_once" "false"
+				"input_execute"	"@play_entry_segment_07_min.output"
+				"input_start" "1"
+				"entry_name" "P2Editor.BlipPlayer07"
+			}
+			
+		}
+	}
+}

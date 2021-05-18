@@ -1,0 +1,2081 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1193415 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4303 texinfos to 2786
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15002 / 65536 )
+nummapbrushes:    (  3129 /  8192 )
+nummapbrushsides: ( 24111 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   275 /  1024 )
+num_entities:     (  1653 / 16384 )
+
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (0, -2880, 200)
+env_cubemap pointing at deleted brushside near (0, -2880, 200)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-1088.00 -3328.00 64.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 -2048.0 -56.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -1536.0 496.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -1706.7 -981.3)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -1433.6 -1491.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 -1024.0 -56.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 -1536.0 -56.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+Processing areas...
+Brush 10462: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 174 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (192850 bytes)
+Static prop models/props_bts/electrical_wire_arc_256_01b.mdl outside the map (-672.00, -2814.18, -544.00)
+Static prop models/props_gameplay/power_lever_box_closed.mdl outside the map (-682.00, -2816.00, -550.00)
+Static prop models/props_gameplay/power_lever_box_closed.mdl outside the map (-668.00, -2816.00, -550.00)
+Static prop models/props/128_fuse_set01/128_fuse_set01.mdl outside the map (-800.00, -2384.56, -328.00)
+Static prop models/props/128_fuse_set04/128_fuse_set04.mdl outside the map (-728.00, -2797.30, 504.00)
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-1024.00, -3424.00, -384.00)
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Static prop models/props_underground/walkway_support_b.mdl outside the map (116.00, -3232.25, 120.00)
+Static prop models/anim_wp/room_transform/arm_exterior_tiny_mat01.mdl outside the map (-800.00, -3235.61, 224.00)
+Static prop models/anim_wp/room_transform/arm_exterior_tiny_mat01.mdl outside the map (-1248.00, -3235.61, 256.00)
+Static prop models/anim_wp/room_transform/arm_64x64_rail.mdl outside the map (-96.00, -3258.00, 544.00)
+Static prop models/portal_stories/arm64x64_interior_static.mdl outside the map (-96.00, -3232.00, 544.00)
+Static prop models/props_backstage/vacum_entrance_a.mdl outside the map (-768.00, -3208.00, -64.00)
+Static prop models/props_bts/pillar_joint_64x64_01a.mdl outside the map (-576.00, -3248.00, 448.00)
+Static prop models/anim_wp/framework/squarebeam_off_2x2.mdl outside the map (368.00, -2616.00, 384.00)
+Static prop models/anim_wp/framework/squarebeam_off_2x2.mdl outside the map (240.00, -2616.00, 128.00)
+Static prop models/anim_wp/framework/squarebeam_off_2x2.mdl outside the map (368.00, -2616.00, 128.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 512.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 640.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 384.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 256.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 128.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 0.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, -128.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, -256.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, -384.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, -512.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, -768.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, -896.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, -1024.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 768.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-928.00, -2496.00, 896.00)
+Static prop models/props_underground/walkway_support_a.mdl outside the map (-452.00, -3232.25, -248.00)
+Static prop models/props_underground/walkway_support_a.mdl outside the map (-380.00, -3232.25, -248.00)
+Static prop models/props_underground/walkway_support_a.mdl outside the map (-676.00, -3232.25, -12.00)
+Static prop models/props_underground/walkway_support_a.mdl outside the map (-604.00, -3232.25, -12.00)
+Static prop models/props_underground/walkway_support_a.mdl outside the map (-1060.00, -3232.25, -380.00)
+Static prop models/props_underground/walkway_support_a.mdl outside the map (-988.00, -3232.25, -380.00)
+Static prop models/props_backstage/triple_wallpipe_corner_a.mdl outside the map (-960.00, -3232.00, -440.00)
+Static prop models/props_backstage/triple_wallpipe_entrance_b.mdl outside the map (-960.00, -3232.00, -504.00)
+Static prop models/props_backstage/triple_wallpipe_entrance_b.mdl outside the map (-960.00, -3232.00, -600.00)
+Static prop models/props_backstage/triple_wallpipe_entrance_b.mdl outside the map (-960.00, -3232.00, -696.00)
+Static prop models/props_backstage/triple_wallpipe_straight_b.mdl outside the map (-960.00, -3232.00, -792.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-1023.57, -3238.00, -206.05)
+Static prop models/props_bts/metal_truss_16x32_512a.mdl outside the map (-592.00, -2377.00, 384.00)
+Static prop models/props_bts/metal_truss_16x32_512a.mdl outside the map (-592.00, -2377.00, -128.00)
+Static prop models/props_bts/metal_truss_16x32_512a.mdl outside the map (-592.00, -2377.00, -640.00)
+Static prop models/props_bts/pipe_64_256.mdl outside the map (-512.00, -3280.25, -200.00)
+Static prop models/props_bts/pipe_64_connector.mdl outside the map (-512.00, -3280.25, -48.00)
+Static prop models/props_bts/pipe_64_256.mdl outside the map (-512.00, -3280.25, 104.00)
+Static prop models/props_bts/pipe_64_connector.mdl outside the map (-512.00, -3280.25, 256.00)
+Static prop models/props_bts/pipe_64_corner.mdl outside the map (-512.00, -3280.25, 272.00)
+Static prop models/props_bts/pipe_64_256.mdl outside the map (-512.00, -3280.25, -800.00)
+Static prop models/props_bts/pipe_64_connector.mdl outside the map (-512.00, -3280.25, -648.00)
+Static prop models/props_bts/pipe_64_256.mdl outside the map (-512.00, -3280.25, -496.00)
+Static prop models/props_bts/pipe_64_connector.mdl outside the map (-512.00, -3280.25, -344.00)
+Static prop models/props_bts/pipe_64_256.mdl outside the map (-456.00, -2751.75, 280.00)
+Static prop models/props_bts/pipe_64_256.mdl outside the map (-456.00, -2496.00, 280.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-440.37, -2810.00, 512.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (212.00, -2498.00, 528.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-416.25, -2640.00, 720.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-864.00, -2592.00, -224.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-656.00, -2752.00, 576.00)
+Static prop models/props_bts/duct_inline_rotate_b.mdl outside the map (-480.00, -2688.00, 576.00)
+Static prop models/props_bts/duct_offset64b.mdl outside the map (-656.00, -2768.00, 672.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-480.00, -2576.00, 576.00)
+Static prop models/props_bts/duct_offset64b.mdl outside the map (-560.00, -2768.00, 576.00)
+Static prop models/props_bts/hanging_walkway_end_cap.mdl outside the map (178.00, -2560.00, 384.00)
+Static prop models/props_bts/hanging_walkway_512a.mdl outside the map (274.00, -2560.00, 384.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (194.00, -2560.00, 384.00)
+Static prop models/props_backstage/triple_wallpipe_corner_a.mdl outside the map (-448.00, -2848.00, 632.00)
+Static prop models/anim_wp/framework/squarebeam_off_2x2.mdl outside the map (368.00, -2504.00, 384.00)
+Static prop models/props_lights/under_neonlamp.mdl outside the map (-512.00, -2815.75, -64.00)
+Static prop models/props_lights/under_neonlamp.mdl outside the map (-927.75, -2592.00, -264.00)
+Static prop models/props_lights/under_neonlamp.mdl outside the map (-927.75, -2592.00, 512.00)
+Static prop models/props_lights/under_neonlamp.mdl outside the map (-416.25, -2608.00, 224.00)
+Static prop models/props_bts/duct_32b.mdl outside the map (-752.00, -2384.00, 272.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-416.00, -3238.00, -95.60)
+Static prop models/props_bts/truss_1024.mdl outside the map (-909.53, -2720.00, -184.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-752.00, -2464.00, 144.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-752.00, -2464.00, 272.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (-784.00, -2432.00, 352.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-880.00, -2432.00, 336.00)
+Static prop models/props_bts/duct_32b.mdl outside the map (-672.00, -2752.00, 336.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-768.00, -2432.00, 448.00)
+Static prop models/props_bts/duct_intersect_b.mdl outside the map (-768.00, -2432.00, 768.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-768.00, -2432.00, 640.00)
+Static prop models/props_bts/duct_64b.mdl outside the map (-768.00, -2432.00, 544.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-768.00, -2560.00, 768.00)
+Static prop models/props_bts/duct_64b.mdl outside the map (-768.00, -2656.00, 768.00)
+Static prop models/props_bts/duct_intersect_vert_tb.mdl outside the map (-752.00, -2784.00, 768.00)
+Static prop models/props_bts/duct_32b.mdl outside the map (-768.00, -2704.00, 768.00)
+Static prop models/props_bts/duct_intersect_b.mdl outside the map (-656.00, -2784.00, 768.00)
+Static prop models/props_bts/duct_64b.mdl outside the map (-560.00, -2784.00, 768.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (-496.00, -2768.00, 576.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-656.00, -2784.00, 896.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-832.00, -2368.00, -144.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-832.00, -2496.00, -144.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-832.00, -2560.00, -80.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-832.00, -2624.00, -16.00)
+Static prop models/props_backstage/vacum_entrance_a.mdl outside the map (-832.00, -2804.00, -16.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-832.00, -2752.00, -16.00)
+Static prop models/props_backstage/vacum_entrance_a.mdl outside the map (-832.00, -2381.56, -144.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-768.00, -2432.00, 896.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-768.00, -2432.00, 1024.00)
+Static prop models/props_bts/duct_intersect_vert_tb.mdl outside the map (-464.00, -2768.00, 768.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-464.00, -2672.00, 768.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-464.00, -2544.00, 768.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-464.00, -2416.00, 768.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-464.00, -2416.00, 896.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (-448.00, -2416.00, 992.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-672.00, -2816.00, 632.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-800.00, -2816.00, 632.00)
+Static prop models/props_backstage/triple_wallpipe_corner_d.mdl outside the map (-864.00, -2816.00, 632.00)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (-544.00, -2816.00, 632.00)
+Static prop models/props_backstage/triple_wallpipe_corner_a.mdl outside the map (-928.00, -2752.00, 632.00)
+Static prop models/props_bts/duct_intersect_b.mdl outside the map (-456.00, -2760.00, -432.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-584.00, -2760.00, -432.00)
+Static prop models/props_bts/duct_inline_rotate_b.mdl outside the map (-456.00, -2648.00, -432.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-456.00, -2536.00, -432.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-456.00, -2408.00, -432.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-840.00, -2760.00, -432.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-712.00, -2760.00, -432.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-840.00, -2616.00, -432.00)
+Static prop models/props_bts/duct_intersect_vert_tb.mdl outside the map (-840.00, -2424.00, -448.00)
+Static prop models/props_bts/duct_64b.mdl outside the map (-840.00, -2520.00, -432.00)
+Static prop models/props_bts/duct_16b.mdl outside the map (-840.00, -2688.00, -432.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-840.00, -2424.00, -544.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-840.00, -2424.00, -672.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-840.00, -2424.00, -800.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (-840.00, -2408.00, -896.00)
+Static prop models/props_bts/duct_16b.mdl outside the map (-840.00, -2368.00, -912.00)
+Static prop models/props/de_train/ladderaluminium.mdl outside the map (-464.00, -2740.00, -123.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2576.00, -640.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2640.00, -640.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-864.00, -2576.00, -640.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-864.00, -2640.00, -640.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-863.75, -2560.00, -384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-863.75, -2624.00, -384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2784.00, -384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2720.00, -384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-544.00, -2751.75, -192.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.00, -2751.75, -192.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2416.00, -192.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2480.00, -192.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2576.00, 96.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2640.00, 96.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-640.00, -2751.75, 96.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-704.00, -2751.75, 96.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-832.00, -2432.25, 96.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-768.00, -2432.25, 96.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2624.00, 384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2560.00, 384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-863.75, -2560.00, 384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-863.75, -2624.00, 384.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2656.00, 832.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-480.25, -2592.00, 832.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-863.75, -2592.00, 832.00)
+Static prop models/props_bts/hanging_walkway_support_a.mdl outside the map (-863.75, -2656.00, 832.00)
+Static prop models/props_bts/duct_intersect_tb.mdl outside the map (-848.00, -2464.00, -224.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (-768.00, -2464.00, -208.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-752.00, -2464.00, -112.00)
+Static prop models/props_bts/duct_32b.mdl outside the map (-864.00, -2384.00, -224.00)
+Static prop models/props_bts/duct_intersect_tb.mdl outside the map (-752.00, -2480.00, 16.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-752.00, -2592.00, 16.00)
+Static prop models/props_bts/duct_intersect_vert_tb.mdl outside the map (-736.00, -2784.00, 16.00)
+Static prop models/props_bts/duct_64b.mdl outside the map (-752.00, -2688.00, 16.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-640.00, -2784.00, 16.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-512.00, -2784.00, 16.00)
+Static prop models/props_bts/duct_32b.mdl outside the map (-432.00, -2784.00, 16.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-464.00, -2464.25, -32.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (-560.00, -2464.00, -16.00)
+Static prop models/props_bts/duct_32b.mdl outside the map (-464.00, -2384.00, -32.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-576.00, -2464.00, 80.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-576.00, -2464.00, 224.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (-560.00, -2464.00, 320.00)
+Static prop models/props_bts/duct_intersect_tb.mdl outside the map (-464.00, -2480.00, 336.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-464.00, -2592.00, 336.00)
+Static prop models/props_bts/duct_16b.mdl outside the map (-576.00, -2464.00, 152.00)
+Static prop models/props_bts/duct_intersect_b.mdl outside the map (-464.00, -2752.00, 336.00)
+Static prop models/props_bts/duct_32b.mdl outside the map (-464.00, -2672.00, 336.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-592.00, -2752.00, 336.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (-880.00, -2752.00, 336.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-752.00, -2752.00, 336.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (-880.00, -2624.00, 336.00)
+Static prop models/props_bts/duct_64b.mdl outside the map (-880.00, -2528.00, 336.00)
+Static prop models/props_backstage/triple_wallpipe_corner_a.mdl outside the map (-928.00, -2496.00, -1088.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-624.00, -2374.00, -576.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-624.00, -2374.00, 128.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-624.00, -2374.00, 448.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-624.00, -2374.00, 864.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-624.00, -2374.00, -896.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-288.00, -3388.00, -252.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-208.00, -3388.00, -252.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-464.00, -2608.00, 96.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-672.00, -2592.00, -192.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-608.00, -2592.00, 0.00)
+Static prop models/props_bts/vactube_tjunction.mdl outside the map (-672.00, -2592.00, -64.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2656.00, 0.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2720.00, 64.00)
+Static prop models/props_bts/vactube_tjunction.mdl outside the map (-768.00, -3328.00, -128.00)
+Static prop models/props_backstage/vacum_entrance_a.mdl outside the map (-672.00, -2804.00, -128.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-544.00, -2720.00, 192.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2656.00, 256.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-608.00, -2592.00, 256.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-672.00, -2592.00, 320.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-672.00, -2592.00, 448.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-672.00, -2592.00, 576.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-800.00, -2608.00, -640.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-672.00, -2528.00, -640.00)
+Static prop models/props_bts/hanging_walkway_gate_a.mdl outside the map (-672.00, -2519.00, -640.00)
+Static prop models/props_bts/hanging_walkway_t.mdl outside the map (-672.00, -2608.00, -640.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-880.00, -2608.00, -640.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-544.00, -2608.00, -640.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-432.00, -2608.00, -640.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-464.00, -2608.00, -640.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-672.00, -2592.00, -320.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-608.00, -2592.00, -384.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2528.00, -384.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-544.00, -2464.00, -448.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-544.00, -2464.00, -576.00)
+Static prop models/props_bts/vactube_tjunction.mdl outside the map (-672.00, -2592.00, 704.00)
+Static prop models/props_backstage/vacum_entrance_a.mdl outside the map (-920.00, -2592.00, 640.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2464.00, -704.00)
+Static prop models/props_bts/vactube_90deg_02.mdl outside the map (-544.00, -2528.00, -768.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2656.00, -896.00)
+Static prop models/props_bts/vactube_90deg_04.mdl outside the map (-608.00, -2656.00, -960.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-608.00, -2592.00, 768.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2656.00, 768.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-544.00, -2720.00, 832.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-544.00, -2720.00, 960.00)
+Static prop models/props_backstage/vacum_scanner_b.mdl outside the map (-672.00, -2592.00, 512.00)
+Static prop models/props_backstage/vacum_flange_a.mdl outside the map (-671.98, -2591.98, -280.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-880.00, -2624.00, 832.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-800.00, -2624.00, 832.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-672.00, -2544.00, 832.00)
+Static prop models/props_bts/hanging_walkway_t.mdl outside the map (-672.00, -2624.00, 832.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-544.00, -2624.00, 832.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-464.00, -2624.00, 832.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-432.00, -2624.00, 832.00)
+Static prop models/props_bts/hanging_walkway_gate_a.mdl outside the map (-672.00, -2535.00, 832.00)
+Static prop models/props_bts/hanging_walkway_end_cap.mdl outside the map (-672.00, -2528.00, 832.00)
+Static prop models/props_bts/hanging_walkway_end_cap.mdl outside the map (-672.00, -2512.00, -640.00)
+Static prop models/props_bts/hanging_walkway_gate_a.mdl outside the map (-672.00, -2519.00, 96.00)
+Static prop models/props_bts/hanging_walkway_gate_a.mdl outside the map (-742.00, -2448.00, -384.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-800.00, -2384.00, 96.00)
+Static prop models/props_bts/hanging_walkway_16a.mdl outside the map (-800.00, -2408.00, 96.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-672.00, -2752.00, 96.00)
+Static prop models/props_bts/hanging_walkway_16a.mdl outside the map (-672.00, -2776.00, 96.00)
+Static prop models/props_bts/hanging_walkway_64a.mdl outside the map (-512.00, -2752.00, -192.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-512.00, -2688.00, -192.00)
+Static prop models/props_bts/hanging_walkway_16a.mdl outside the map (-512.00, -2712.00, -192.00)
+Static prop models/props_bts/hanging_walkway_64a.mdl outside the map (-480.00, -2752.00, -384.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-624.00, -2374.00, -256.00)
+Static prop models/catwalk_destruction/hanging_walkway_32b_lowres.mdl outside the map (-416.00, -3244.00, -252.00)
+Static prop models/props_bts/hanging_walkway_corner.mdl outside the map (-416.00, -3388.00, -252.00)
+Static prop models/props_bts/hanging_walkway_64a.mdl outside the map (-416.00, -3292.00, -252.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-432.00, -2608.00, 96.00)
+Static prop models/props_bts/hanging_walkway_l.mdl outside the map (-800.00, -2608.00, 96.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (-192.00, -3238.00, 640.00)
+Static prop models/props_bts/conduit001a.mdl outside the map (-224.00, -3236.00, 640.00)
+Static prop models/props_bts/hanging_walkway_l.mdl outside the map (-832.00, -2752.00, -384.00)
+Static prop models/props_bts/hanging_walkway_t.mdl outside the map (-832.00, -2592.00, -384.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-704.00, -2752.00, -384.00)
+Static prop models/props_bts/hanging_walkway_l.mdl outside the map (-832.00, -2448.00, -384.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-752.00, -2448.00, -384.00)
+Static prop models/props_bts/hanging_walkway_end_cap.mdl outside the map (-736.00, -2448.00, -384.00)
+Static prop models/props_bts/hanging_walkway_16a.mdl outside the map (-832.00, -2520.00, -384.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-832.00, -2672.00, -384.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-576.00, -2752.00, -384.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-432.00, -2752.00, -384.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-432.00, -2592.00, 384.00)
+Static prop models/props_bts/hanging_walkway_t.mdl outside the map (-512.00, -2592.00, 384.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-640.00, -2752.00, 384.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-512.00, -2672.00, 384.00)
+Static prop models/props_bts/hanging_walkway_l.mdl outside the map (-512.00, -2448.00, 384.00)
+Static prop models/props_bts/hanging_walkway_end_cap.mdl outside the map (-608.00, -2448.00, 384.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-592.00, -2448.00, 384.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-512.00, -2528.00, -192.00)
+Static prop models/props_bts/hanging_walkway_l.mdl outside the map (-512.00, -2752.00, 384.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-752.00, -2752.00, 384.00)
+Static prop models/props_bts/hanging_walkway_l.mdl outside the map (-832.00, -2752.00, 384.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-720.00, -2752.00, 384.00)
+Static prop models/props_bts/hanging_walkway_16a.mdl outside the map (-512.00, -2520.00, 384.00)
+Static prop models/props_bts/hanging_walkway_corner.mdl outside the map (-832.00, -2592.00, 384.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-832.00, -2672.00, 384.00)
+Static prop models/props_bts/hanging_walkway_t.mdl outside the map (-512.00, -2448.00, -192.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-592.00, -2448.00, -192.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-432.00, -2448.00, -192.00)
+Static prop models/props_bts/hanging_walkway_end_cap.mdl outside the map (-608.00, -2448.00, -192.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-512.00, -2608.00, -192.00)
+Static prop models/props_bts/hanging_walkway_end_cap.mdl outside the map (-672.00, -2512.00, 96.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-672.00, -2528.00, 96.00)
+Static prop models/props_bts/hanging_walkway_x.mdl outside the map (-672.00, -2608.00, 96.00)
+Static prop models/props_bts/hanging_walkway_64a.mdl outside the map (-672.00, -2704.00, 96.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-544.00, -2608.00, 96.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-800.00, -2480.00, 96.00)
+Static prop models/props_bts/hanging_walkway_256a.mdl outside the map (-640.00, -3488.00, -16.00)
+Static prop models/props_bts/hanging_walkway_128a.mdl outside the map (-640.00, -3360.00, -16.00)
+Static prop models/props_bts/hanging_walkway_32a.mdl outside the map (-640.00, -3280.00, -16.00)
+Static prop models/props_bts/hanging_walkway_32b.mdl outside the map (-640.00, -3248.00, -16.00)
+Static prop models/prop_cables/cable_box_02.mdl outside the map (-1219.00, -3232.25, -125.00)
+Static prop models/props_bts/hanging_walkway_64c.mdl outside the map (-1024.00, -3264.00, -384.00)
+Static prop models/props_bts/hanging_walkway_64a.mdl outside the map (-1024.00, -3328.00, -384.00)
+Static prop models/props_backstage/triple_wallpipe_straight_a.mdl outside the map (-1072.00, -3232.00, 544.00)
+Static prop models/props_backstage/triple_wallpipe_corner_a.mdl outside the map (-1072.00, -3232.00, -96.00)
+Static prop models/props_backstage/triple_wallpipe_entrance_b.mdl outside the map (-1072.00, -3232.00, 64.00)
+Static prop models/props_backstage/triple_wallpipe_entrance_b.mdl outside the map (-1072.00, -3232.00, 160.00)
+Static prop models/props_backstage/triple_wallpipe_straight_b.mdl outside the map (-1072.00, -3232.00, 256.00)
+Static prop models/props_backstage/triple_wallpipe_straight_a.mdl outside the map (-1072.00, -3232.00, 384.00)
+Static prop models/props_backstage/triple_wallpipe_entrance_b.mdl outside the map (-1072.00, -3232.00, -32.00)
+Static prop models/props_bts/vactube_90deg_03.mdl outside the map (-576.00, -3584.00, -192.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-768.00, -3392.00, -192.00)
+Static prop models/props_bts/vactube_128_straight_b.mdl outside the map (-832.00, -3328.00, 64.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-960.00, -3328.00, 64.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-1216.00, -3328.00, 64.00)
+Static prop models/props_bts/vactube_128_straight_b.mdl outside the map (-1088.00, -3328.00, 64.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (-1344.00, -3328.00, 64.00)
+Static prop models/props_bts/vactube_90deg_01.mdl outside the map (-768.00, -3328.00, 0.00)
+Static prop models/props_bts/hanging_walkway_gate_frame.mdl outside the map (-601.00, -2448.00, 383.63)
+Static prop models/props_bts/hanging_walkway_gate_frame.mdl outside the map (-599.00, -2448.00, -192.38)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 960.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 960.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 704.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 704.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 448.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 448.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 192.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, 192.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -64.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -64.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -320.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -320.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -576.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -576.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -832.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -832.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -1088.00)
+Static prop models/anim_wp/framework/roof_track_a.mdl outside the map (-672.00, -2360.00, -1088.00)
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 743 texinfos to 368
+Reduced 72 texdatas to 66 (2203 bytes to 1995)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     (  3280 / 65536 )
+nummapbrushes:    (   497 /  8192 )
+nummapbrushsides: (  4233 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    38 /  1024 )
+num_entities:     (   252 / 16384 )
+
+6 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1195081 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4315 texinfos to 2795
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15026 / 65536 )
+nummapbrushes:    (  3132 /  8192 )
+nummapbrushsides: ( 24129 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   278 /  1024 )
+num_entities:     (  1658 / 16384 )
+
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1195081 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4315 texinfos to 2795
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15026 / 65536 )
+nummapbrushes:    (  3132 /  8192 )
+nummapbrushsides: ( 24129 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   278 /  1024 )
+num_entities:     (  1658 / 16384 )
+
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1194528 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4309 texinfos to 2795
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15020 / 65536 )
+nummapbrushes:    (  3131 /  8192 )
+nummapbrushsides: ( 24123 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   277 /  1024 )
+num_entities:     (  1657 / 16384 )
+
+13 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1193975 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4303 texinfos to 2795
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15016 / 65536 )
+nummapbrushes:    (  3130 /  8192 )
+nummapbrushsides: ( 24117 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   276 /  1024 )
+num_entities:     (  1652 / 16384 )
+
+13 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1195632 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4316 texinfos to 2804
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15028 / 65536 )
+nummapbrushes:    (  3131 /  8192 )
+nummapbrushsides: ( 24123 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   279 /  1024 )
+num_entities:     (  1657 / 16384 )
+
+13 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (3104, 496, 520)
+env_cubemap pointing at deleted brushside near (3104, 496, 520)
+env_cubemap pointing at deleted brushside near (3104, 496, 520)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (2560.25 848.00 408.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4272.0 3072.0 -296.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4480.0 3072.0 -296.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4816.0 3072.0 -296.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4304.0 3072.0 1544.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4816.0 3072.0 1544.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4104.0 3072.0 1664.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4616.0 3072.0 1664.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 -176.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 202 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (254440 bytes)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (2208.00, 1967.75, -162.58)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (2208.00, 1839.75, -162.58)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (2208.00, 1712.00, -162.58)
+Static prop models/props_backstage/triple_wallpipe_straight_c.mdl outside the map (2208.00, 1584.00, -162.58)
+Static prop models/portal_stories/arm64x64_interior_static.mdl outside the map (2208.00, 1904.00, 280.00)
+Static prop models/portal_stories/arm64x64_interior_static.mdl outside the map (2272.00, 1904.00, 280.00)
+Static prop models/portal_stories/arm64x64_interior_static.mdl outside the map (2272.00, 1840.00, 280.00)
+Static prop models/portal_stories/arm64x64_interior_static.mdl outside the map (2208.00, 1840.00, 280.00)
+Static prop models/anim_wp/framework/squarebeam_off.mdl outside the map (2336.00, 1808.00, 312.00)
+Static prop models/anim_wp/framework/squarebeam_off.mdl outside the map (2336.00, 1808.00, 376.00)
+Static prop models/props_bts/light_cage001a.mdl outside the map (3600.00, 104.00, 480.00)
+Static prop models/props_bts/duct_256b.mdl outside the map (3468.00, 804.00, 440.00)
+Static prop models/props_bts/duct_90b.mdl outside the map (3468.00, 804.00, 120.00)
+Static prop models/props_bts/duct_128b.mdl outside the map (3468.00, 804.00, 248.00)
+Static prop models/props_bts/duct_256b.mdl outside the map (3276.00, 804.00, 120.00)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (3116.00, 788.00, 120.00)
+Static prop models/props_bts/duct_256b.mdl outside the map (2580.00, 1396.00, 575.87)
+Static prop models/props_bts/duct_vert90b.mdl outside the map (2212.00, 1556.00, 224.00)
+Static prop models/props_backstage/vacum_entrance_a.mdl outside the map (3988.00, 445.81, 96.00)
+Static prop models/props_bts/vactube_128_straight.mdl outside the map (3988.00, 488.00, 96.00)
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1352 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1196151 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4322 texinfos to 2810
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15056 / 65536 )
+nummapbrushes:    (  3129 /  8192 )
+nummapbrushsides: ( 24111 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   281 /  1024 )
+num_entities:     (  1663 / 16384 )
+
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1352 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1196743 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4322 texinfos to 2810
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15056 / 65536 )
+nummapbrushes:    (  3132 /  8192 )
+nummapbrushsides: ( 24129 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   281 /  1024 )
+num_entities:     (  1673 / 16384 )
+
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1352 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1196743 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4322 texinfos to 2810
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15056 / 65536 )
+nummapbrushes:    (  3132 /  8192 )
+nummapbrushsides: ( 24129 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   281 /  1024 )
+num_entities:     (  1673 / 16384 )
+
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1197295 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4325 texinfos to 2813
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15062 / 65536 )
+nummapbrushes:    (  3134 /  8192 )
+nummapbrushsides: ( 24141 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   282 /  1024 )
+num_entities:     (  1675 / 16384 )
+
+13 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1197295 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4325 texinfos to 2813
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15062 / 65536 )
+nummapbrushes:    (  3134 /  8192 )
+nummapbrushsides: ( 24141 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   282 /  1024 )
+num_entities:     (  1675 / 16384 )
+
+13 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt
+ 805 portalclusters
+2069 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 32384 visible clusters (0.00%)
+Total clusters visible: 167631
+Average clusters visible: 208
+Building PAS...
+Average clusters audible: 398
+visdatasize:108573  compressed from 167440
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+8924 faces
+2 degenerate faces
+3538101 square feet [509486656.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8922 patches before subdivision
+197344 patches after subdivision
+398 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15510910, max 630
+transfer lists: 118.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(69815, 56825, 53290)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23978, 25034, 24884)
+Build Patch/Sample Hash Table(s).....Done<1.4111 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+120 of 184 (65% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 282/1024        13536/49152    (27.5%) 
+brushes               3134/8192        37608/98304    (38.3%) 
+brushsides           24223/65536      193784/524288   (37.0%) 
+planes               15062/65536      301240/1310720  (23.0%) 
+vertexes             17178/65536      206136/786432   (26.2%) 
+nodes                 4076/65536      130432/2097152  ( 6.2%) 
+texinfos              2813/12288      202536/884736   (22.9%) 
+texdata                217/2048         6944/65536    (10.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8924/65536      499744/3670016  (13.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6212/65536      347872/3670016  ( 9.5%) 
+facebrushes           1552/0            3104/0        ( 0.0%) 
+facebrushlists        8924/0           35696/0        ( 0.0%) 
+leaves                4359/65536      139488/2097152  ( 6.7%) 
+leaffaces            11176/65536       22352/131072   (17.1%) 
+leafbrushes           5740/65536       11480/131072   ( 8.8%) 
+areas                   11/256            88/2048     ( 4.3%) 
+surfedges            66775/512000     267100/2048000  (13.0%) 
+edges                40748/256000     162992/1024000  (15.9%) 
+LDR worldlights        398/8192        39800/819200   ( 4.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1038/32768       10380/327680   ( 3.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17667/65536       35334/131072   (27.0%) 
+cubemapsamples          45/1024          720/16384    ( 4.4%) 
+overlays               206/512         72512/180224   (40.2%) 
+LDR lightdata         [variable]    16572784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      108573/16777216 ( 0.6%) 
+entdata               [variable]      699152/393216   (177.8%) VERY FULL!
+LDR ambient table     4359/65536       17436/262144   ( 6.7%) 
+HDR ambient table     4359/65536       17436/262144   ( 6.7%) 
+LDR leaf ambient      8552/65536      239456/1835008  (13.0%) 
+HDR leaf ambient      4359/65536      122052/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/349648   ( 0.0%) 
+pakfile               [variable]     3446184/0        ( 0.0%) 
+physics               [variable]     1197295/4194304  (28.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 23927
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+1 minute, 2 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1197295 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4325 texinfos to 2813
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15062 / 65536 )
+nummapbrushes:    (  3134 /  8192 )
+nummapbrushsides: ( 24141 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   282 /  1024 )
+num_entities:     (  1674 / 16384 )
+
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1197295 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4325 texinfos to 2813
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15062 / 65536 )
+nummapbrushes:    (  3134 /  8192 )
+nummapbrushsides: ( 24141 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   282 /  1024 )
+num_entities:     (  1674 / 16384 )
+
+12 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt
+ 805 portalclusters
+2069 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 32384 visible clusters (0.00%)
+Total clusters visible: 167631
+Average clusters visible: 208
+Building PAS...
+Average clusters audible: 398
+visdatasize:108573  compressed from 167440
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\Metal\metalgrate018c.vtf
+Loaded alpha texture materials\Metal\metalgrate018b.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+8924 faces
+2 degenerate faces
+3538101 square feet [509486656.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8922 patches before subdivision
+197344 patches after subdivision
+398 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18774754, max 654
+transfer lists: 143.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(75506, 63385, 59499)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25260, 26597, 26533)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11860, 14027, 14304)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6531, 8082, 8280)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3851, 4838, 4939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2355, 2970, 3008)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1470, 1854, 1858)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(932, 1174, 1160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(598, 751, 730)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(388, 485, 463)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(253, 316, 296)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(167, 207, 190)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(110, 137, 123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(73, 91, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(49, 60, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(33, 40, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(22, 27, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(15, 18, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(10, 12, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(7, 8, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5, 6, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(3, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(2, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<1.4197 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+120 of 184 (65% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 282/1024        13536/49152    (27.5%) 
+brushes               3134/8192        37608/98304    (38.3%) 
+brushsides           24223/65536      193784/524288   (37.0%) 
+planes               15062/65536      301240/1310720  (23.0%) 
+vertexes             17178/65536      206136/786432   (26.2%) 
+nodes                 4076/65536      130432/2097152  ( 6.2%) 
+texinfos              2813/12288      202536/884736   (22.9%) 
+texdata                217/2048         6944/65536    (10.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8924/65536      499744/3670016  (13.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6212/65536      347872/3670016  ( 9.5%) 
+facebrushes           1552/0            3104/0        ( 0.0%) 
+facebrushlists        8924/0           35696/0        ( 0.0%) 
+leaves                4359/65536      139488/2097152  ( 6.7%) 
+leaffaces            11176/65536       22352/131072   (17.1%) 
+leafbrushes           5740/65536       11480/131072   ( 8.8%) 
+areas                   11/256            88/2048     ( 4.3%) 
+surfedges            66775/512000     267100/2048000  (13.0%) 
+edges                40748/256000     162992/1024000  (15.9%) 
+LDR worldlights        398/8192        39800/819200   ( 4.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1038/32768       10380/327680   ( 3.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17667/65536       35334/131072   (27.0%) 
+cubemapsamples          45/1024          720/16384    ( 4.4%) 
+overlays               206/512         72512/180224   (40.2%) 
+LDR lightdata         [variable]    17043636/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      108573/16777216 ( 0.6%) 
+entdata               [variable]      698829/393216   (177.7%) VERY FULL!
+LDR ambient table     4359/65536       17436/262144   ( 6.7%) 
+HDR ambient table     4359/65536       17436/262144   ( 6.7%) 
+LDR leaf ambient      9223/65536      258244/1835008  (14.1%) 
+HDR leaf ambient      4359/65536      122052/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/349648   ( 0.0%) 
+pakfile               [variable]    56202074/0        ( 0.0%) 
+physics               [variable]     1197295/4194304  (28.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 23927
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+25 minutes, 51 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\Metal\metalgrate018c.vtf
+Loaded alpha texture materials\Metal\metalgrate018b.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+8924 faces
+2 degenerate faces
+3538101 square feet [509486656.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8922 patches before subdivision
+197344 patches after subdivision
+398 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18774754, max 654
+transfer lists: 143.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(66642, 62639, 59436)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23829, 26494, 26525)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11609, 14011, 14303)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6486, 8080, 8280)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3843, 4838, 4939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2353, 2970, 3008)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1470, 1854, 1858)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(932, 1174, 1160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(598, 751, 730)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(388, 485, 463)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(253, 316, 296)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(167, 207, 190)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(110, 137, 123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(73, 91, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(49, 60, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(33, 40, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(22, 27, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(15, 18, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(10, 12, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(7, 8, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5, 6, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(3, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(2, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<1.5435 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+120 of 184 (65% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1197295 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3328.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -3456.00 144.00
+Encountered obsolete static prop option to do its fade in screen space @ 128.00 -4176.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 384.00 -3280.00 256.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -3568.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -608.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2736.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ -64.00 -2768.00 192.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -320.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -288.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -864.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 400.00
+Encountered obsolete static prop option to do its fade in screen space @ 192.00 -2880.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 256.00 -4256.00 304.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2584.00 368.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 256.00 576.00
+Encountered obsolete static prop option to do its fade in screen space @ 2200.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -992.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 1704.00 -992.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2088.00 -224.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -144.00 272.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2216.00 -160.00 640.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 48.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 2600.00 -80.00 432.00
+Encountered obsolete static prop option to do its fade in screen space @ 1944.00 368.00 384.00
+Encountered obsolete static prop option to do its fade in screen space @ 3122.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 3154.03 2000.00 148.00
+Encountered obsolete static prop option to do its fade in screen space @ 2744.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2712.00 -464.00 512.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2304.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 2032.00 2272.00 472.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2608.00 320.00
+Encountered obsolete static prop option to do its fade in screen space @ 0.00 -2576.00 320.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4325 texinfos to 2813
+Reduced 233 texdatas to 217 (8763 bytes to 8269)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+
+nummapplanes:     ( 15062 / 65536 )
+nummapbrushes:    (  3134 /  8192 )
+nummapbrushsides: ( 24141 / 65536 )
+num_map_overlays: (   206 /   512 )
+nummodels:        (   282 /  1024 )
+num_entities:     (  1674 / 16384 )
+
+12 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.prt
+ 805 portalclusters
+2069 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 32384 visible clusters (0.00%)
+Total clusters visible: 167631
+Average clusters visible: 208
+Building PAS...
+Average clusters audible: 398
+visdatasize:108573  compressed from 167440
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+8924 faces
+2 degenerate faces
+3538101 square feet [509486656.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8922 patches before subdivision
+197344 patches after subdivision
+398 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15510910, max 630
+transfer lists: 118.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(69815, 56825, 53290)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23978, 25034, 24884)
+Build Patch/Sample Hash Table(s).....Done<1.4001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+120 of 184 (65% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 282/1024        13536/49152    (27.5%) 
+brushes               3134/8192        37608/98304    (38.3%) 
+brushsides           24223/65536      193784/524288   (37.0%) 
+planes               15062/65536      301240/1310720  (23.0%) 
+vertexes             17178/65536      206136/786432   (26.2%) 
+nodes                 4076/65536      130432/2097152  ( 6.2%) 
+texinfos              2813/12288      202536/884736   (22.9%) 
+texdata                217/2048         6944/65536    (10.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8924/65536      499744/3670016  (13.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6212/65536      347872/3670016  ( 9.5%) 
+facebrushes           1552/0            3104/0        ( 0.0%) 
+facebrushlists        8924/0           35696/0        ( 0.0%) 
+leaves                4359/65536      139488/2097152  ( 6.7%) 
+leaffaces            11176/65536       22352/131072   (17.1%) 
+leafbrushes           5740/65536       11480/131072   ( 8.8%) 
+areas                   11/256            88/2048     ( 4.3%) 
+surfedges            66775/512000     267100/2048000  (13.0%) 
+edges                40748/256000     162992/1024000  (15.9%) 
+LDR worldlights        398/8192        39800/819200   ( 4.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1038/32768       10380/327680   ( 3.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17667/65536       35334/131072   (27.0%) 
+cubemapsamples          45/1024          720/16384    ( 4.4%) 
+overlays               206/512         72512/180224   (40.2%) 
+LDR lightdata         [variable]    16572784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      108573/16777216 ( 0.6%) 
+entdata               [variable]      698829/393216   (177.7%) VERY FULL!
+LDR ambient table     4359/65536       17436/262144   ( 6.7%) 
+HDR ambient table     4359/65536       17436/262144   ( 6.7%) 
+LDR leaf ambient      8552/65536      239456/1835008  (13.0%) 
+HDR leaf ambient      4359/65536      122052/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/349648   ( 0.0%) 
+pakfile               [variable]     3446184/0        ( 0.0%) 
+physics               [variable]     1197295/4194304  (28.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 23927
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\mp_coop_sp_a3_transition.bsp
+1 minute, 1 second elapsed
