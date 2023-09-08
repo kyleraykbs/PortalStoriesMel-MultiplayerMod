@@ -1,3 +1,6 @@
+# THIS PROJECT HAS BEEN ARCHIVED
+I'm going to remake the functionality of this in a much smaller package as a part of the multiplayer mod repo i have
+
 # Features
 Ports *Portal Stories: Mel* to multiplayer
 Has compatibility with 32 player mod (The new version https://github.com/kyleraykbs/Portal2-32PlayerMod-Lite)
